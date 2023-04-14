@@ -1,8 +1,11 @@
-# PSC
-Outils pour l'analyse synthaxique du français
+# Projet Scientifique Collectif 2022 - Caractérisation de l'écriture artiste
+
+Contributeurs : Emma Verdier - Tanguy Couderc - Loman Sezestre - Luc Buysse
 
 Organisation du dépot :
 - le dossier <b> src </b> contient l'intégralité du code source java, le code écrit spécifiquement pour le projet est contenu dans le package PSC. Les autres packages sont des librairies que nous n'avons pas codées nous même.
-- le fichier <b> wn_cut.xml </b> est le wordnet traduit
 - les fichiers <b> sensations.txt </b> et <b> art_words.txt </b> contiennent respectivement les listes de mots du vocabulaire des sensations et du vocabulaire de l'art que nous avons utilisées
-- le fichier <b> wordnet_translator.py </b> est le script python qui permet de traduire Wordnet
+- le dossier <b> Wordnet </b> contient :
+  - un fichier "wn_cut.xml" qui est Wordnet traduit
+  - un script python "wordnet_translator.py" qu permet de traduire le wordnet. Le script est assez rapide à éxécuter et son code est assez lisible. Si vous voulez l'éxécuter sur votre machine, il faut remplacer le nom du répertoire de travail et placer 4 fichiers dans ce répertoire : <b> wn.xml </b> (le wordnet en anglais, fichier trop gros pour être dans ce dépôt mais qui est disponible à l'adresse suivante <a> https://en-word.net/static/english-wordnet-2022.xml.gz </a>) et 
+  - <b> sow_fr.txt </b>, <b> sow_en.txt </b>, <b> sow_types.txt </b> qui sont respectivement, les mots du corpus, leur traduction et leur type
