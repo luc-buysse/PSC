@@ -1,0 +1,2818 @@
+oewn-approach-n : démarche-n, abord, approche
+oewn-mine-n : mien-n, mine
+oewn-medallion-n : médaillier-n, médaillon
+oewn-wash out-v : dépaver-v, délaver
+oewn-rank-n : rang-n, grade
+oewn-manufacturer-n : manufacturier-n, fabricant, fabricateur
+oewn-training-n : dressage-n, entraînement
+oewn-ruckus-n : grabuge-n, boucan
+oewn-thinker-n : songeur-n, penseur
+oewn-floating-n : flottant-n, flottage, flottement
+oewn-joint-n : jointure-n, joint
+oewn-swindler-n : escroc-n, escroquerie
+oewn-spyglass-n : lorgnette-n, longue-vue
+oewn-ruffle-n : jabot-n, hérissement, ébouriffement
+oewn-ugly-a : enlaidissant-a, affreux, laid
+oewn-fan-n : ventilateur-n, éventail, éventaire
+oewn-dedicate-v : dévouer-v, dédier, dédorer, consacrer
+oewn-destroy-v : détruire-v, anéantir
+oewn-competition-n : compétition-n, concurrence
+oewn-live-v : habiter-v, vivoter, vivre
+oewn-scoundrel-a : chafouin-a, canaille, crapuleux
+oewn-beetle-n : scarabée-n, hanneton, coléoptère
+oewn-forfeit-n : dédit-n, forfaiture
+oewn-fin-n : ailette-n, nageoire
+oewn-adjust-v : ajuster-v, rajuster
+oewn-nail-v : clouer-v, enclouer, clouter
+oewn-instant-a : instant-a, instantané
+oewn-tetanus-n : tétanos-n, tétanique
+oewn-basin-n : vasque-n, basin, bassine, bassinet
+oewn-snout-n : groin-n, museau
+oewn-wildcat-n : fauve-n, sauvageon
+oewn-figure-n : figure-n, chiffre
+oewn-basket-n : panière-n, bourriche, panier, corbeille
+oewn-restore-v : restaurer-v, rétablir
+oewn-earthenware-n : faïence-n, faïencier
+oewn-thickening-n : épaississement-n, épatement
+oewn-hinge-n : penture-n, gond, charnière
+oewn-harvest-v : vendanger-v, récolter, moissonner
+oewn-ballot-n : ballotte-n, scrutin
+oewn-thank you-n : remerciement-n, merci
+oewn-tingling-n : picotement-n, fourmillement, émoustillement
+oewn-superintendent-n : surintendant-n, surintendante
+oewn-retort-n : retaille-n, cornue, riposte
+oewn-delineate-v : délinéer-v, délimiter
+oewn-fresh-n : fraîche-n, frais
+oewn-frigid-a : frileux-a, frigide
+oewn-bully-v : tyranniser-v, rudoyer
+oewn-pitcher-n : cruche-n, broc
+oewn-sling-n : élancement-n, fronde
+oewn-howling-a : mugissant-a, hurlant
+oewn-nibble-v : mordiller-v, grignoter
+oewn-blur-n : brouille-n, estompe
+oewn-garbage-n : détritus-n, ordure
+oewn-assume-v : assumer-v, supposer
+oewn-pope-n : pope-n, pape
+oewn-gargoyle-n : gargouillade-n, gargouille, gargousse
+oewn-forest-n : forêt-n, futaie
+oewn-clatter-n : cliquetis-n, fracas
+oewn-pod-n : gousse-n, cosse
+oewn-case-n : écrin-n, caisse, affaire, étui, cas
+oewn-torch-n : torchère-n, flambeau, torche
+oewn-mow-a : tondre-a, faucher
+oewn-virgin-n : puceau-n, vierge
+oewn-subdue-v : mater-v, assujettir
+oewn-nasal-n : nasarde-n, nasale
+oewn-transplant-v : repiquer-v, transplanter
+oewn-crack-n : gerçure-n, fêlure, lézarde, craque, fêle, fissure, crac
+oewn-shading-v : ombrager-v, rembrunir
+oewn-bump-n : bosse-n, cahot
+oewn-escape-n : échappade-n, évasion, échappée
+oewn-ambush-n : embuscade-n, guet-apens
+oewn-railing-n : rampement-n, balustrade
+oewn-bleating-v : bêtifier-v, bêler
+oewn-undulate-v : ondoyer-v, onduler
+oewn-heating-n : échauffement-n, chauffage, chauffe
+oewn-splash-v : clabauder-v, éclabousser, clapoter
+oewn-tax-n : taxe-n, fisc, impôt
+oewn-dissent-n : dissentiment-n, dissidence
+oewn-catch-n : attrape-n, prise
+oewn-seal-v : sceller-v, cacheter
+oewn-enlargement-n : élargissement-n, agrandissement
+oewn-pouch-n : pochette-n, pochon
+oewn-flood-n : inondation-n, crue
+oewn-harmful-a : nuisible-a, dommageable
+oewn-shelter-n : abri-n, refuge
+oewn-attract-v : attitrer-v, allécher, attiédir, attirer
+oewn-shrivel-v : raturer-v, ratatiner, racornir
+oewn-add-v : adjoindre-v, ajouter, appointer
+oewn-rise-n : montée-n, remontée, hausse, essor
+oewn-cover-n : couvercle-n, housse, couverture, cache
+oewn-jewel-n : bijou-n, joyau
+oewn-layer-n : calque-n, couche
+oewn-jerk-n : secousse-n, saccade, soubresaut
+oewn-hundred_eighty_thousand-a : cent_vingt-sept_mille-a, cent_vingt-mille
+oewn-learn-v : apprendre-v, appendre
+oewn-brawl-n : rixe-n, bagarre
+oewn-starch-n : fécule-n, amidon
+oewn-ignorant-a : ignare-a, ignorant, ignorantin
+oewn-competitor-n : concurrent-n, compétiteur
+oewn-meeting-n : meeting-n, réunion, rencontre
+oewn-emptying-n : vidange-n, vidangeur
+oewn-building-n : édifice-n, immeuble, bâtiment, bâtisse
+oewn-point-v : braquer-v, pointer
+oewn-educate-v : instruire-v, éduquer
+oewn-warm up-v : réchauffer-v, échauffer
+oewn-bench-n : banquette-n, paillasse, banc
+oewn-tile-n : carreau-n, tuile
+oewn-attractive-a : attractif-a, séduisant, attirant, attrayant
+oewn-company-n : compagnie-n, société, sociétaire, entreprise
+oewn-bubble-a : bulle-a, bouillonner
+oewn-peaceful-a : pacifique-a, paisible
+oewn-move-a : déplacer-a, émouvoir
+oewn-crush-n : écrasement-n, béguin, cohue
+oewn-frippery-n : fripier-n, fripement
+oewn-visit-n : visite-n, visitation
+oewn-unknown-n : méconnu-n, inconnu
+oewn-swirling-n : remous-n, tournoiement, tourbillonnement
+oewn-weave-v : trisser-v, tramer, tisser, tresser, louvoyer
+oewn-leaflet-n : follette-n, foliole, feuillet
+oewn-shine-v : resplendir-v, reluire, lustrer, brillanter, luire, briller, rutiler
+oewn-blessed-a : bénit-a, bienheureux
+oewn-distort-v : dénaturer-v, fausser
+oewn-agreement-n : accord-n, entente
+oewn-balance-v : solder-v, équilibrer
+oewn-blue-a : bleuir-a, bleu
+oewn-mania-n : manie-n, mania
+oewn-stamp-n : étampe-n, timbre, estampille
+oewn-wheat-n : froment-n, blé
+oewn-winner-n : gagneur-n, vainqueur
+oewn-exceed-v : excéder-v, dépasser
+oewn-incident-n : incidente-n, incident
+oewn-substitute-n : remplaçant-n, substitut, suppléant
+oewn-glow-n : lueur-n, rougeoiement
+oewn-complexion-n : complexion-n, teint
+oewn-collapse-n : écroulement-n, effondrement, collapsus
+oewn-deceased-n : trépassé-n, défunt, décédé
+oewn-trade-n : commerce-n, négoce
+oewn-onlooker-n : badauderie-n, badaud
+oewn-great-a : génial-a, formidable
+oewn-gusset-n : houssoir-n, gousset
+oewn-formerly-r : jadis-r, naguère, autrefois
+oewn-bloody-v : ensanglanter-v, sangler
+oewn-messy-v : décoiffer-v, salir
+oewn-tray-n : barquette-n, plateau
+oewn-celebrate-v : fêter-v, célébrer
+oewn-vain-a : vain-a, vaniteux
+oewn-yard-n : chantier-n, cour
+oewn-stock-n : stock-n, crosse
+oewn-compromise-v : transiger-v, compromettre
+oewn-level-n : niveau-n, nivelle
+oewn-stingy-a : rameux-a, chiche, pingre
+oewn-trample-v : piétiner-v, fouler
+oewn-form-n : formulaire-n, fiche, forme
+oewn-sting-v : piqueter-v, darder, piquer
+oewn-frost-n : givre-n, frimas
+oewn-schedule-n : calendrier-n, cédule
+oewn-attach-v : rattacher-v, attacher
+oewn-whore-n : putain-n, catin
+oewn-academic-a : universitaire-a, académique
+oewn-gossip-n : commère-n, ragot, potin, commérage
+oewn-stammer-v : bredouiller-v, bafouiller, balbutier
+oewn-swirl-v : tourbillonner-v, tournoyer
+oewn-royalty-n : redevance-n, royauté
+oewn-suffer-v : souffrir-v, soufrer, pâtir
+oewn-paint-v : peinturer-v, peindre
+oewn-insult-n : insulte-n, injure
+oewn-accuracy-n : justesse-n, exactitude
+oewn-carousel-n : carrousel-n, manège
+oewn-breakage-n : cassation-n, brisement
+oewn-scab-n : croûte-n, gale
+oewn-capture-n : capture-n, captation
+oewn-fricassee-n : fricassé-n, fricassée
+oewn-compete-v : concourir-v, rivaliser
+oewn-outrage-a : outrager-a, outrer
+oewn-topple-v : abattre-v, déchoir
+oewn-all-r : tout-r, toute
+oewn-crumbling-n : effritement-n, émiettement, croulement
+oewn-past-n : passé-n, antan
+oewn-verse-n : verset-n, couplet
+oewn-bleat-v : bêtiser-v, bêler
+oewn-powdering-v : poudrer-v, poudroyer
+oewn-offspring-n : progéniture-n, descendance
+oewn-gypsy-n : tzigane-n, tsigane
+oewn-pest-n : pestiféré-n, ravageur
+oewn-ride-n : chevau-n, chevauchée
+oewn-cover-v : couvrir-v, couver, recouvrir
+oewn-intentional-a : intentionné-a, intentionnel
+oewn-brush-n : brosse-n, broussaille, pinceau
+oewn-deposit-n : dépôt-n, arrhes, gisement, consigne
+oewn-check-v : damer-v, quadriller, ausculter, vérifier
+oewn-rain-v : pleuvoir-v, pleuviner
+oewn-summary-n : sommaire-n, résumé
+oewn-hold-v : détenir-v, retenir, tenir
+oewn-smell-n : odeur-n, odorat
+oewn-there-r : là-bas-r, là
+oewn-sieve-v : sasser-v, cribler
+oewn-saddle-n : selle-n, sellette
+oewn-slimming-v : mincir-v, maigrir, amaigrir, amincir
+oewn-come-v : provenir-v, venir
+oewn-moron-n : crétin-n, abruti, débile
+oewn-shave-v : raturer-v, raser, galvauder
+oewn-joist-n : soliveau-n, solive
+oewn-recluse-n : reclus-n, réclusionnaire
+oewn-jamming-n : enrayage-n, enrayement
+oewn-tree-n : arborescence-n, arbre
+oewn-wandering-n : vagabondage-n, errement
+oewn-rent-n : louage-n, loyer, rente
+oewn-congratulate-v : congratuler-v, féliciter
+oewn-stall-n : stalle-n, échoppe, étal
+oewn-swear-v : assermenter-v, jurer
+oewn-lasciviousness-n : lasciveté-n, lascivité
+oewn-death-n : mort-n, décès, trépas
+oewn-memory-n : mémoire-n, moire, souvenir
+oewn-blotter-n : sous-main-n, buvard
+oewn-misfortune-n : infortune-n, malheur
+oewn-romantic-n : romantique-n, romanesque
+oewn-impostor-n : imposte-n, imposteur
+oewn-heady-a : capiteux-a, entêtant
+oewn-graze-v : brouter-v, frôler, paître, pâturer
+oewn-rolling-n : roulant-n, roulement, roulage, roulante
+oewn-singer-n : cantatrice-n, chanteur
+oewn-sucker-n : suceuse-n, drageoir
+oewn-thinning-v : clairsemer-v, éclaircir
+oewn-youth-n : jeunesse-n, faunesse
+oewn-rifleman-n : carabin-n, carabinier, fusilier
+oewn-reappear-v : reparaître-v, réapparaître
+oewn-half day-n : demi-journée-n, demi-jour
+oewn-haggard-a : hagard-a, hâve
+oewn-addiction-n : dépendance-n, accoutumance
+oewn-harm-v : nuire-v, léser
+oewn-gin-n : égrène-n, gin
+oewn-ragged-a : loqueteux-a, dépenaillé
+oewn-shudder-v : frémir-v, trembloter, frissonner
+oewn-degree-n : degré-n, diplôme
+oewn-register-v : homologuer-v, inscrire, enregistrer
+oewn-hoop-n : arceau-n, houppe, cerceau
+oewn-storage-n : rangement-n, emmagasinement, garde-meuble
+oewn-tact-n : doigté-n, tact
+oewn-joker-n : blagueur-n, plaisantin
+oewn-barber-n : barbier-n, coiffeur
+oewn-increase-n : augmentation-n, accroissement
+oewn-primer-n : abécédaire-n, apprêt
+oewn-lament-n : déploration-n, complainte
+oewn-provide-v : fournir-v, procurer, subvenir, pourvoir, dépourvoir, munir, prodiguer
+oewn-sponsor-n : commanditaire-n, parrain
+oewn-flatten-v : aplatir-v, aplanir, araser
+oewn-ramming-v : éperonner-v, emperler
+oewn-snail-n : limaçon-n, colimaçon, escargot
+oewn-bending-n : flexion-n, pliement
+oewn-sweeten-v : édulcorer-v, sucrer
+oewn-camp-n : campement-n, camp
+oewn-poop-n : caca-n, crotte
+oewn-fix-v : fixer-v, arranger
+oewn-subdivide-v : lotir-v, subdiviser
+oewn-grandfather-n : grand-père-n, aïeul
+oewn-support-v : épauler-v, soutenir, supporter, étayer, appuyer, appointer
+oewn-hope-n : espoir-n, espérance
+oewn-painting-n : tableau-n, peinture
+oewn-bushy-a : embroussaillé-a, buissonnier
+oewn-glow-v : rougeoyer-v, luire
+oewn-counterfeiter-n : faussaire-n, contrefacteur
+oewn-induction-n : intronisation-n, induction
+oewn-kitty-n : cagnotte-n, minet, minette
+oewn-corner-v : corner-v, acculer
+oewn-whisper-n : susurrement-n, chuchotement, murmure
+oewn-rider-a : avenant-a, cavalier, rider
+oewn-dizziness-n : vertige-n, étourdissement
+oewn-ignorant-n : ignorant-n, ignorantin
+oewn-royal-n : royale-n, royal
+oewn-link-n : lien-n, chaînon, liaison
+oewn-mitigate-v : atténuer-v, mitiger
+oewn-haggle-v : chipoter-v, marchander
+oewn-decant-v : décaniller-v, transvaser
+oewn-staff-n : personnel-n, état-major
+oewn-similar-n : pareille-n, semblable
+oewn-supply-v : fournir-v, ravitailler, approvisionner
+oewn-frolicking-v : gambader-v, folâtrer
+oewn-expire-v : expirer-v, périmer
+oewn-strengthen-v : affermir-v, raffermir, renforcer
+oewn-designate-v : désigner-v, destiner
+oewn-converse-a : converse-a, convers
+oewn-pleasure-n : plaisir-n, plaisance
+oewn-flow-v : couler-v, découler, fluer, écouler
+oewn-test-v : tester-v, éprendre
+oewn-currant-n : groseillier-n, groseille
+oewn-capon-n : chapon-n, capon
+oewn-branch out-v : ramifier-v, ramager
+oewn-historian-a : historier-a, historien
+oewn-pit-n : fosse-n, puisard
+oewn-obedience-n : obéissance-n, obédience
+oewn-sweet-a : douceâtre-a, doux, doucereux
+oewn-beginner-n : débutante-n, débutant
+oewn-capital-n : capitale-n, capital
+oewn-lowering-a : abaissant-a, baissant
+oewn-belly-n : panse-n, bedon, ventre
+oewn-deny-v : dénier-v, nier, démentir
+oewn-make-v : confectionner-v, fabriquer, rendre, ficher
+oewn-sleepy-n : endormement-n, ensommeillement
+oewn-lady-n : dame-n, lady
+oewn-unspeakable-a : inqualifiable-a, indicible
+oewn-error-n : erreur-n, erre
+oewn-pity-v : apitoyer-v, plaindre
+oewn-peck-v : bécoter-v, picorer
+oewn-impatient-a : impatient-a, impatientant
+oewn-crumble-v : effriter-v, émietter, crouler
+oewn-curry-v : curer-v, étriller
+oewn-pick up-n : ramassement-n, ramasse, ramasseur
+oewn-operate-v : exploiter-v, fonctionner, opérer, actionner
+oewn-goal-n : goal-n, but
+oewn-incursion-n : incartade-n, incursion
+oewn-pleasant-n : agréable-n, plaisant
+oewn-abyss-n : gouffre-n, abîme
+oewn-trailer-n : roulotte-n, remorque
+oewn-chip-n : copeau-n, puce
+oewn-die-v : mourir-v, décéder, crever
+oewn-outrageous-a : outrageant-a, outrancier
+oewn-clerical-a : clérical-a, claustral
+oewn-management-n : mangement-n, gestion, régie
+oewn-scratch-n : égratignure-n, éraflure, rayure, gratte
+oewn-cameraman-n : camériste-n, camérier
+oewn-rambling-n : divagation-n, rabâcherie, radotage
+oewn-disguised-n : déguenillé-n, déguisé
+oewn-shivering-a : frissonnant-a, grelottant, tremblotant
+oewn-disgust-v : dégoûter-v, déguster
+oewn-curl-v : pelotonner-v, boucler, recourber, friser, roustir
+oewn-mending-n : raccommodement-n, raccommodage
+oewn-flout-v : bafouer-v, flouer
+oewn-necromancer-n : nécromancien-n, nécromant
+oewn-search-a : fouiller-a, rechercher, fouir, chercher
+oewn-pride-n : orgueil-n, fierté
+oewn-sheepish-a : moutonnier-a, penaud, moutonnant
+oewn-distribute-v : répartir-v, distribuer
+oewn-paper-n : papier-n, papelard
+oewn-male-a : mâle-a, masculin
+oewn-scare-v : apeurer-v, effaroucher, effarer, épouvanter, effrayer, épeurer
+oewn-devious-n : sournois-n, retors
+oewn-leveling-v : niveler-v, aplanir
+oewn-diversion-n : dérivatif-n, dérivation, diversion
+oewn-dry-v : sécher-v, tarir, dessécher
+oewn-van-n : van-n, fourgon
+oewn-nice-a : gentil-a, gentillet, joli
+oewn-width-n : largeur-n, laize
+oewn-denial-n : dénégation-n, déni, reniement
+oewn-welcome-n : bienvenue-n, accueil, bienvenu
+oewn-annihilation-n : annihilation-n, anéantissement
+oewn-wither-v : dépérir-v, faner, étioler, flétrir
+oewn-golden-n : doré-n, dorée
+oewn-tilting-a : basculant-a, inclinant
+oewn-commander-n : commandeur-n, commandant
+oewn-tartar-n : tartare-n, tartre
+oewn-ice-n : glace-n, verglas
+oewn-watch-v : guetter-v, veiller
+oewn-haughty-a : hautain-a, altier
+oewn-idleness-n : désoeuvrement-n, oisiveté, farniente
+oewn-whipping-n : fouettement-n, fouage
+oewn-around-r : alentour-r, autour
+oewn-attraction-n : attraction-n, attirance, attirement
+oewn-lie-n : menterie-n, mensonge
+oewn-enhancement-n : rehaut-n, rehaussement
+oewn-waste-v : gâcher-v, gaspiller
+oewn-display-n : affichage-n, étalage, afficheur
+oewn-entertain-v : divertir-v, amuser
+oewn-twist-a : tortiller-a, tordre
+oewn-shepherd-n : pâtre-n, berger
+oewn-madam-n : madame-n, maquerelle
+oewn-interior-n : habitacle-n, intérieur
+oewn-report-n : signalement-n, rapport, reportage, report
+oewn-soften-v : adoucir-v, assagir, radoucir, mollir, amollir, ramollir, assouplir
+oewn-endorse-v : endosser-v, cautionner
+oewn-preach-n : prône-n, prêche
+oewn-rope-n : cordeau-n, cordage, corde
+oewn-door-n : porte-n, portière
+oewn-impregnable-a : imprenable-a, inexpugnable
+oewn-abuse-v : abuser-v, maltraiter
+oewn-landing-n : débarcadère-n, débarquement, atterrissement
+oewn-short-a : court-a, courtaud
+oewn-fun-n : amusant-n, amusement, drôlerie
+oewn-see-a : voiturer-a, voir
+oewn-mow-v : tondre-v, faucher
+oewn-sponsorship-n : parrainage-n, commandite
+oewn-soft-n : mou-n, douce
+oewn-inexhaustible-a : intarissable-a, inépuisable
+oewn-trestle-n : chevalet-n, tréteau
+oewn-graze-n : frôlement-n, pâture
+oewn-penguin-n : pingouin-n, manchot
+oewn-hubbub-n : brouhaha-n, tintamarre
+oewn-jewelry-n : bijouterie-n, joaillerie
+oewn-locker-n : casier-n, éclusier
+oewn-food-n : nourriture-n, vivres, aliment, bouffe
+oewn-sensitive-n : sensitif-n, sensitive
+oewn-walnut-n : noix-n, noyer
+oewn-bailiff-n : bailli-n, huissier
+oewn-deportation-n : déportement-n, déportation
+oewn-skinning-n : écorchement-n, dépouillement
+oewn-buccaneer-n : boucanier-n, flibustier
+oewn-cook-v : cuisiner-v, cuire
+oewn-marine-n : marine-n, marin
+oewn-comical-n : cocasserie-n, comique
+oewn-childishness-n : gaminerie-n, enfantillage
+oewn-session-n : session-n, séance
+oewn-job-n : boulot-n, job, métier
+oewn-boat-n : bateau-n, embarcation, barque
+oewn-decline-n : déclin-n, déclouement
+oewn-sanitation-n : sanie-n, assainissement
+oewn-sucking-n : succion-n, suçoir, suçage
+oewn-frivolous-a : fielleux-a, frivole
+oewn-locate-v : situer-v, localiser
+oewn-coldness-n : froidure-n, froideur
+oewn-toast-v : trinquer-v, griller
+oewn-headband-n : bandeau-n, serre-tête
+oewn-smoking-a : fumer-a, fumant
+oewn-click-n : cliquette-n, clique, clic
+oewn-mast-n : mât-n, mâne, mâture
+oewn-west-n : occident-n, ouest
+oewn-waste-n : déchet-n, gaspillage
+oewn-increase-v : augmenter-v, accroître, renchérir
+oewn-performance-n : performance-n, rendement
+oewn-gibberish-n : baragouin-n, charabia
+oewn-twist-v : torsader-v, tortiller, tordre
+oewn-distribution-n : distribution-n, répartition
+oewn-contribute-v : cotiser-v, contribuer
+oewn-stormy-a : houleux-a, orageux
+oewn-below-r : ci-dessous-r, au-dessous, là-dessous
+oewn-secularization-n : sécularisation-n, laïcisation
+oewn-mess-n : gâchis-n, pétrin
+oewn-lightning-a : foudroyant-a, foudroyer
+oewn-harass-v : harceler-v, harasser
+oewn-sink-v : couler-v, sombrer, renfoncer
+oewn-delight-v : réjouir-v, délecter, ravir
+oewn-request-v : mander-v, solliciter, requérir
+oewn-plant-n : plant-n, planton, plante
+oewn-burst-v : crever-v, éclater
+oewn-hotel-n : hôtellerie-n, hôtel
+oewn-join-a : adjoindre-a, joindre, conjoindre
+oewn-surround-v : entourer-v, environner
+oewn-exhibit-v : exposer-v, exhiber
+oewn-range-n : fourchette-n, gamme, range
+oewn-room-n : salle-n, chambre, chambrette
+oewn-auction-n : enchère-n, licitation, encan
+oewn-broken-n : brisée-n, cassé
+oewn-think-v : penser-v, réfléchir, songer
+oewn-unseal-v : décocher-v, desceller, décacheter
+oewn-package-n : paquet-n, forfait, colis
+oewn-holder-n : titulaire-n, détenteur
+oewn-sit down-a : rasseoir-a, attabler
+oewn-clearing-n : déblai-n, défrichement, déblaiement, clairière
+oewn-size-n : taille-n, grandeur, carrure
+oewn-base-n : base-n, socle
+oewn-cattle-n : bétail-n, bestiaux
+oewn-fry-v : frire-v, rissoler, griser
+oewn-worm-n : ver-n, vermisseau
+oewn-equestrian-a : équestre-a, hippique
+oewn-complacency-n : complaisance-n, suffisance
+oewn-stain-v : souiller-v, badigeonner, tâcher, tacher
+oewn-seal-n : phoque-n, sceau
+oewn-tiny-a : minuscule-a, infime
+oewn-stone-n : pierraille-n, pierre
+oewn-hair-n : cheveu-n, poil, chevelure, crin, tignasse
+oewn-scare-n : effarouchement-n, épouvantement, épouvante, effraie
+oewn-abrupt-a : brusque-a, abrupt
+oewn-influence-v : influer-v, influencer
+oewn-usher-n : placeur-n, ouvreuse, placier
+oewn-federal-a : fédéral-a, fédératif
+oewn-lust-n : luxure-n, convoitise
+oewn-candy-n : bonbon-n, candi
+oewn-flattery-n : flatterie-n, flagornerie
+oewn-farm-n : fermage-n, ferme
+oewn-fuck-v : enculer-v, emmerder, foutre
+oewn-rejuvenation-n : jouvence-n, rajeunissement
+oewn-flower-n : fleuron-n, fleur
+oewn-visitor-n : visiteur-n, visiteuse
+oewn-crouch-v : accroupir-v, croupir
+oewn-parade-n : parade-n, défilé, paradeur
+oewn-child-a : enfant-a, puîné
+oewn-relax-v : détendre-v, relaxer, délasser
+oewn-excitement-n : emballement-n, excitation, émoi
+oewn-speak-n : parler-n, parlage
+oewn-failure-n : défaillance-n, insuccès, ratage, échec
+oewn-obey-v : obéir-v, obtempérer, obérer
+oewn-infant-n : poupon-n, nourrisson, infant
+oewn-seaweed-n : goémon-n, algue
+oewn-hundred_four-twenty-n : cent_quatre-vingts-n, cent_quatre-vingt
+oewn-balloon-n : baudruche-n, ballon
+oewn-foolishness-n : bêtise-n, sottise
+oewn-climb-v : grimper-v, gravir
+oewn-fertilize-v : fertiliser-v, féconder
+oewn-steal-a : dérober-a, voler
+oewn-back-n : dos-n, arrière, verso
+oewn-usual-a : habituel-a, usuel
+oewn-beaten-n : battu-n, battue
+oewn-spell-n : sortilège-n, sort
+oewn-pile up-v : amonceler-v, entasser, empiler
+oewn-skimmer-n : écumoire-n, écumeur
+oewn-halt-n : hallier-n, halte
+oewn-fascination-n : fascine-n, fascination
+oewn-watering hole-n : abreuvoir-n, larmier
+oewn-bandage-n : bandage-n, pansement
+oewn-trellis-n : treille-n, treillage
+oewn-boar-n : verrat-n, sanglier
+oewn-assignment-n : affectation-n, assignation
+oewn-vest-n : giletière-n, gilet
+oewn-chestnut-a : alezan-a, châtain
+oewn-reassurance-n : rassurement-n, rassérénement
+oewn-gum-n : gomme-n, gencive
+oewn-admiring-a : admiratif-a, admirant
+oewn-pebble-n : cailloutage-n, cailloutis, galet, caillou
+oewn-juniper-n : genévrier-n, genièvre
+oewn-wing-n : aile-n, escadre
+oewn-foundation-n : fondation-n, fondement
+oewn-plunge-v : replonger-v, plonger
+oewn-fool-n : imbécile-n, idiot, fou
+oewn-blue-v : bleuir-v, bleuter
+oewn-press-v : enfoncer-v, appuyer, presser
+oewn-dryness-n : dessèchement-n, tarissement, siccité, sécheresse
+oewn-embellish-v : enjoliver-v, embellir
+oewn-jar-n : bocal-n, jarre
+oewn-practice-v : exercer-v, pratiquer
+oewn-dungeon-n : cachot-n, donjon
+oewn-stun-v : étourdir-v, assommer, abasourdir
+oewn-accumulate-v : accumuler-v, cumuler
+oewn-climbing-v : escalader-v, grimper
+oewn-burial-n : ensevelissement-n, enterrement, inhumation, enfouissement, sépulture
+oewn-junk-n : fatras-n, camelote, pacotille, tripaille
+oewn-rack-n : crémaillère-n, claie, râtelier
+oewn-order-v : ordonner-v, commander
+oewn-move-v : déplacer-v, mouvementer, émotionner, déménager, mouvoir, bouger, émouvoir
+oewn-eyebrow-n : sourcil-n, sourcillement
+oewn-acute-n : aigue-n, aigu
+oewn-squeeze-v : pressurer-v, serrer
+oewn-cardboard-n : cartonnage-n, cartonnier, carton
+oewn-insult-v : injurier-v, insulter
+oewn-miller-n : meunier-n, usinier, meunière
+oewn-heating-a : chauffant-a, échauffant
+oewn-rest-n : repos-n, repose
+oewn-bloat-v : ballonner-v, boursoufler
+oewn-tie up-v : ligoter-v, ficeler, nouer, cravacher
+oewn-tear-n : larme-n, déchirement, déchirure
+oewn-handle-v : maniérer-v, manier
+oewn-hurry-v : dépêcher-v, empresser, hâter
+oewn-give-v : adonner-v, donner
+oewn-disappointment-n : déconvenue-n, désappointement
+oewn-confuse-v : embrouiller-v, confondre
+oewn-tyrant-n : tyran-n, tyranneau
+oewn-operator-n : exploitant-n, opérateur
+oewn-spill-v : déverser-v, épancher
+oewn-dripping-a : goutteux-a, dégouttant, dégoulinant
+oewn-harness-n : baudrier-n, harnais
+oewn-pooch-n : cabotin-n, cabot
+oewn-embrace-n : embrassade-n, embrassement, étreinte, accolade
+oewn-swamp-n : marécage-n, marais
+oewn-favour-v : privilégier-v, favoriser
+oewn-firebrand-n : tison-n, brûlot
+oewn-bleeding-n : saignée-n, saignant, saulée, saignement
+oewn-crush-v : écraser-v, broyer, concasser
+oewn-guest-n : invité-n, convive
+oewn-setback-n : déboire-n, contretemps
+oewn-quote-v : coter-v, citer
+oewn-stuff-v : empailler-v, bourrer, fourrer
+oewn-mustard-n : moutard-n, moutarde
+oewn-run-v : fonctionner-v, courir, courailler
+oewn-harden-v : durcir-v, endurcir
+oewn-capping-v : plafonner-v, écrêter
+oewn-see-v : voiturer-v, voir, apercevoir
+oewn-two_hundred_and_one-a : deux_cent_vingt_et_un-a, deux_cent_vingt_et_une
+oewn-look-n : regard-n, allure
+oewn-cuff-n : brassard-n, manchette
+oewn-skinning-v : écorner-v, écorcer, dépailler, écorcher
+oewn-floor-n : plancher-n, parquet, étage
+oewn-dishevelling-v : décoiffer-v, écheveler, ébouriffer
+oewn-disgrace-n : disgrâce-n, déshonneur
+oewn-coal-n : charbon-n, houille
+oewn-opponent-n : adversaire-n, opposant
+oewn-stale-n : éventé-n, rassérènement
+oewn-partner-n : partner-n, partenaire
+oewn-thirteen_cent_thousand-a : treize_cent_vingt_mille-a, treize_cent_mille
+oewn-water-v : arroser-v, abreuver
+oewn-harassing-a : harcelant-a, harassant
+oewn-comforting-n : réconfortation-n, réconfortement
+oewn-pick-n : cueille-n, médius
+oewn-release-a : libérer-a, lâcher
+oewn-appeasement-n : apurement-n, apaisement
+oewn-joke-n : boutade-n, plaisanterie, blague
+oewn-licker-n : lèchefrite-n, lécheur
+oewn-bundle-n : ballot-n, liasse, fagot, bottelage
+oewn-howl-v : hurler-v, mugir
+oewn-trim-v : rogner-v, tailler
+oewn-half-n : demie-n, demi, moitié
+oewn-hail-v : grêler-v, héler
+oewn-watery-a : larmoyant-a, aqueux
+oewn-scion-n : rejeton-n, scion
+oewn-undermine-a : ébranler-a, miner
+oewn-pin-n : broche-n, épingle, goupil
+oewn-grape-n : raisin-n, raisiné
+oewn-come-n : venue-n, venu
+oewn-emotional-a : affectif-a, émotionnant
+oewn-opportunity-n : opportunité-n, occasion
+oewn-punch-n : punch-n, poinçon
+oewn-concern-n : souci-n, préoccupation
+oewn-wall-n : muraille-n, paroi, mur
+oewn-satisfaction-n : assouvissement-n, satisfaction
+oewn-frame-v : cadrer-v, cadastrer, encadrer
+oewn-cup-n : gobelet-n, tasse
+oewn-muscular-a : musculaire-a, muscler
+oewn-candle-n : bougie-n, cierge, chandelle
+oewn-blondie-a : blondin-a, blondasse
+oewn-cracking-n : craquant-n, craquelure, craquement
+oewn-grip-n : préhension-n, poigne
+oewn-wise-a : sage-a, judicieux
+oewn-veneer-n : vénusté-n, placage
+oewn-heterogeneous-a : hétérogène-a, hétéroclite
+oewn-follower-n : adepte-n, suiveur
+oewn-blessing-n : bénédicité-n, bénisseur, bénédiction
+oewn-locomotive-n : locomotrice-n, locomotive
+oewn-perfect-a : parfait-a, perfectionner
+oewn-interleave-v : intercaler-v, entrebailler
+oewn-recovery-n : recouvrance-n, rétablissement, redressement, reprise
+oewn-song-n : chanson-n, chant
+oewn-reader-n : lecteur-n, liseur
+oewn-peel-n : pelure-n, épluchure
+oewn-lengthen-v : allonger-v, longer, rallonger
+oewn-bitch-n : chienne-n, salope
+oewn-hammering-n : martèlement-n, martelage
+oewn-trowel-n : taloche-n, truelle, truellée
+oewn-greedy-a : avide-a, gourmand, avaricieux, cupide
+oewn-press-n : pressoir-n, presse, pressier
+oewn-torrential-a : torrentiel-a, torrentueux
+oewn-native-n : indigène-n, autochtone, natif
+oewn-lift-v : soutirer-v, soulever
+oewn-mule-n : mulet-n, mule
+oewn-feel-v : tâter-v, palper, sentir, ressentir
+oewn-hill-n : colline-n, coteau
+oewn-overcome-v : vaincre-v, surmonter
+oewn-walker-n : promeneur-n, promeneuse, marcheur
+oewn-annihilate-v : anéantir-v, anémier, annihiler
+oewn-querying-v : quereller-v, quérir, quêter
+oewn-inform-v : informer-v, renseigner
+oewn-owl-n : chouette-n, hibou, hulotte
+oewn-first-n : première-n, premier
+oewn-cute-n : mignonne-n, mignon
+oewn-advance-n : acompte-n, avance, avancée
+oewn-battery-n : pile-n, batterie
+oewn-smash-v : défoncer-v, fracasser
+oewn-eighty-n : quatre-vingts-n, huitaine
+oewn-disillusion-v : désillusionner-v, désabuser
+oewn-set-v : établir-v, enchâsser
+oewn-slip-n : glissade-n, bordereau, glisse, glissement
+oewn-sparrow-n : sparterie-n, passereau, moinillon, moineau
+oewn-thief-n : voleur-n, larron
+oewn-seize-n : emparement-n, saisissement
+oewn-stretcher-n : brancard-n, civière
+oewn-abound-v : abonder-v, foisonner
+oewn-janitor-n : concierge-n, conciergerie, janissaire
+oewn-pennant-n : pennon-n, fanion
+oewn-spread-n : étendage-n, écartement, étale
+oewn-suicide-n : suicidé-n, suicide
+oewn-bohemian-a : bohémien-a, bohème
+oewn-setting-n : mise-n, couchant
+oewn-martyrdom-n : martyrisation-n, martyre
+oewn-spread-a : répandre-a, étendre, épandre
+oewn-roll-n : roule-n, rouleau, roulade, roulis
+oewn-frame-n : ossature-n, charpente, bâti, châssis, cadre
+oewn-retort-v : riposter-v, rétorquer
+oewn-refer-v : référer-v, aiguiller
+oewn-whining-n : pleurnicherie-n, pleurnicheur
+oewn-twig-n : ramille-n, brindille
+oewn-land-v : atterrir-v, atterrer
+oewn-splash-n : éclaboussement-n, éclaboussade, rejaillissement, clapotement, éclaboussure
+oewn-discredit-v : déconsidérer-v, discréditer
+oewn-disregard-n : mésestime-n, déconsidération
+oewn-cuddle-v : pelotonner-v, câliner
+oewn-peacock-n : piaillard-n, paon
+oewn-impassable-a : imperdable-a, infranchissable
+oewn-unearth-v : déterrer-v, dénicher
+oewn-thinning-n : amincissement-n, éclaircie, éclaircissement
+oewn-passionate-a : passionner-a, passionnel
+oewn-dishonest-a : malhonnête-a, déshonnête
+oewn-scholar-n : savant-n, érudit
+oewn-dispatch-n : envoi-n, dépêche, dépècement
+oewn-warning-n : avertissement-n, semonce
+oewn-mechanical-a : mécanique-a, machinal
+oewn-literary-n : littéraire-n, littérateur
+oewn-pledge-v : gager-v, nantir
+oewn-tighten-v : retendre-v, ressouder, resserrer
+oewn-draw-v : puiser-v, dessiner, dégainer
+oewn-ceremonial-a : cérémonieux-a, cérémonial
+oewn-essay-n : dissertation-n, essai
+oewn-forceps-n : forceps-n, davier
+oewn-rascal-n : gredin-n, sacripant, fripon, malotru, chenapan, garnement
+oewn-vice-n : étau-n, vice
+oewn-argue-v : disputer-v, argumenter, arguer
+oewn-dry-a : aride-a, sec, dessécher, dry
+oewn-cry-n : criée-n, pleur, cri
+oewn-knowledge-n : savoir-n, connaissance
+oewn-sniff-v : renifler-v, flairer
+oewn-flare-v : flamber-v, évaser
+oewn-calf-n : veau-n, mollet
+oewn-confession-n : aveu-n, confession
+oewn-grimace-n : grimacement-n, grimace
+oewn-listener-n : auditeur-n, écouteur
+oewn-chop-v : hacher-v, gercer
+oewn-liberal-a : libérien-a, libéral
+oewn-tell-v : raconter-v, conter
+oewn-thinness-n : maigreur-n, minceur
+oewn-lock up-v : caserner-v, claquemurer, enfermer, enferrer
+oewn-roast-v : rôtir-v, torréfier
+oewn-vault-n : caveau-n, voûte
+oewn-scum-n : écume-n, racaille, saloperie
+oewn-section-n : tronçon-n, section
+oewn-effusion-n : épanchement-n, effusion
+oewn-twitch-v : tressauter-v, tressaillir
+oewn-touching-a : touchant-a, attendrissant
+oewn-evening-n : soirée-n, soir
+oewn-nothing-n : néant-n, rien
+oewn-tender-v : tendre-v, soumissionner
+oewn-content-n : contenance-n, contenu, teneur, content
+oewn-sweep-v : balayer-v, ramoner
+oewn-comfort-v : consoler-v, réconforter
+oewn-connect-v : raccorder-v, accoler, relier
+oewn-fill-v : emplir-v, remplir, obturer, combler
+oewn-hundred-n : centaine-n, cent
+oewn-grumbling-n : râle-n, grognonnerie
+oewn-blowing-n : soufflant-n, soufflement
+oewn-hide-v : masquer-v, receler, dissimuler, celer, planquer, cacher
+oewn-valid-a : valable-a, valide
+oewn-pierce-v : percer-v, transpercer
+oewn-quench-v : étancher-v, désaltérer
+oewn-home-n : habitation-n, domicile, patelin, foyer, chez-soi, home
+oewn-darkening-n : rembrunissement-n, assombrissement
+oewn-fright-n : frayeur-n, effroi
+oewn-notch-n : entaille-n, encoche, cran
+oewn-charity-n : bienfaisance-n, charité
+oewn-dumb down-v : abrutir-v, abêtir
+oewn-stripping-v : décaver-v, dépouiller, effeuiller
+oewn-fungus-n : champignon-n, fongus
+oewn-breaking-n : brisant-n, cassage, cassement
+oewn-road-n : route-n, voirie
+oewn-additional-a : additionnel-a, supplémentaire
+oewn-rock-n : rocher-n, roche, caillasse, roc
+oewn-stump-n : moignon-n, chicotin, souche
+oewn-lurk-v : rôder-v, tapager
+oewn-half-tone-n : demi-teinte-n, demi-ton
+oewn-camouflage-n : camoufle-n, camouflet
+oewn-drawer-n : tiroir-n, puisatier
+oewn-pleasant-a : agréable-a, plaisant
+oewn-blade-n : lame-n, pale
+oewn-digger-n : terrassier-n, fouilleur, fouilleuse
+oewn-unwind-v : dérouler-v, déboucler, dérougir, dévider
+oewn-erase-v : gommer-v, effacer
+oewn-neck-n : nuque-n, cou
+oewn-box-n : caisserie-n, coffret, box, case, caisson, boîte
+oewn-break-n : break-n, casse, bris, brisure, cassure, rupture
+oewn-doctor-n : docteur-n, médecin
+oewn-surroundings-n : environs-n, alentours
+oewn-lily-n : lys-n, lis
+oewn-divide-v : diviser-v, départir
+oewn-acceptance-n : acceptation-n, acception
+oewn-poaching-v : braconner-v, débaucher
+oewn-moth-n : mite-n, phalène, teigne
+oewn-gauntlet-n : gantelet-n, gantier
+oewn-staggering-a : chancelant-a, pantelant, renversant, titubant
+oewn-key ring-n : porte-clés-n, porte-clefs
+oewn-baker-n : pâtissier-n, boulanger
+oewn-relief-n : secours-n, relief, allégement, relève, soulagement, relevaille
+oewn-legal-a : légal-a, juridique
+oewn-heave-v : haler-v, déchausser
+oewn-party-n : partie-n, fête, party, parti
+oewn-patrician-n : patriciat-n, patricien
+oewn-bag-n : sachet-n, sac
+oewn-receipt-n : récépissé-n, quittance
+oewn-thoughtful-a : attentionné-a, pensif
+oewn-store-n : magasin-n, boutique
+oewn-fox-n : fox-n, renard
+oewn-nonsense-n : sornette-n, ânerie, absurdité, non-sens
+oewn-builder-n : bâtisseur-n, constructeur
+oewn-heap-n : amoncellement-n, amassement, entassement, amas
+oewn-pin-v : épingler-v, punaiser
+oewn-piss-v : poisser-v, pisser
+oewn-skim-v : frôler-v, écrémer
+oewn-name-n : appellation-n, dénomination, nom
+oewn-scramble-v : démener-v, brouiller
+oewn-plain-n : plaine-n, plain
+oewn-column-n : rubrique-n, colonnette, colonne
+oewn-sleepy-a : ensommeillé-a, endormant
+oewn-inconvenience-n : désagrément-n, inconvénient, incommodité
+oewn-laziness-n : paresse-n, fainéantise
+oewn-brown-a : marron-a, brun
+oewn-shade-a : nuancer-a, ombrer
+oewn-success-n : réussite-n, succès
+oewn-cunning-n : roublard-n, roublardise, rouerie, fourbe, fourberie
+oewn-ingenuity-n : ingéniosité-n, ingénuité
+oewn-dismantle-v : débiner-v, démancher, démonter, démoder, démantibuler, démanteler
+oewn-count-n : comte-n, décompte, comput
+oewn-untwist-v : détortiller-v, décolleter, désentortiller
+oewn-complete-v : compléter-v, parachever
+oewn-firm up-v : raffermir-v, affermir
+oewn-glimpse-v : apercevoir-v, entrevoir
+oewn-barbarism-n : barbarisme-n, barbarie
+oewn-illuminate-v : enluminer-v, éclairer, illuminer
+oewn-charm-n : charme-n, breloque
+oewn-damage-n : damage-n, abîmement, avarie, dommage, dégât
+oewn-embalming-n : embaumement-n, embastillement
+oewn-stride-n : enjambée-n, foulée
+oewn-bait-n : amorce-n, appât
+oewn-inside-r : dedans-r, au-dedans
+oewn-kissing-n : embrasement-n, baisemain
+oewn-crowd-n : attroupement-n, foule
+oewn-more-r : davantage-r, plus
+oewn-feverishness-n : fébrilité-n, enfièvrement
+oewn-must-v : falloir-v, devoir
+oewn-dedication-n : dévouement-n, dédicace
+oewn-occurrence-n : survenue-n, occurrence
+oewn-calligraphy-a : calligraphier-a, calligraphique
+oewn-subjugate-v : subjuguer-v, assujettir
+oewn-healing-n : guérison-n, cicatrisation
+oewn-unwelcome-a : importun-a, malvenu
+oewn-fair-a : équitable-a, passable
+oewn-crack-v : crevasser-v, fêler, fendiller, craquer
+oewn-stagger-v : étager-v, échelonner, chanceler
+oewn-intertwining-n : entrecroisement-n, entrelacement
+oewn-warp-v : ourdir-v, gauchir
+oewn-scuttle-n : sabord-n, minaudier
+oewn-banner carrier-n : porte-hauban-n, porte-bannière
+oewn-inconsolable-a : inconsolable-a, inconsolé
+oewn-rescue-n : rescousse-n, sauvetage
+oewn-smoke-v : fumer-v, enfumer
+oewn-search-n : perquisition-n, fouille, cherche
+oewn-city-n : ville-n, cité
+oewn-carriage-n : porte-crosse-n, carrosse, calèche, fiacre
+oewn-brave-a : brave-a, courageux
+oewn-link-v : lier-v, relier
+oewn-dummy-n : mannequin-n, factice
+oewn-rock-v : rocher-v, bercer
+oewn-burgundy-n : bourgogne-n, bordeaux
+oewn-sanding-v : sabler-v, poncer
+oewn-chirping-n : gazouillis-n, pépiement, piaillerie
+oewn-scramble-a : brouillon-a, brouiller
+oewn-cunning-a : fourbe-a, ruser, astucieux
+oewn-call-a : appeler-a, interpeller
+oewn-tension-n : tension-n, crispation
+oewn-servant-n : serviteur-n, servante, desservant
+oewn-retract-v : rétracter-v, escamoter
+oewn-doubtful-a : dubitatif-a, douteux
+oewn-pattern-n : patron-n, motif
+oewn-artificial-a : artificiel-a, artificieux
+oewn-ugly-n : enlaidissement-n, laideur
+oewn-have-v : avoir-v, ravoir
+oewn-straightness-n : rectitude-n, droiture
+oewn-smoking-n : fumage-n, tabagie
+oewn-thunder-v : tonner-v, tonitruer
+oewn-will-n : volonté-n, aura, testament
+oewn-build-v : bâtir-v, édifier, construire
+oewn-crutch-n : béquille-n, béquet
+oewn-potion-n : potion-n, philtre
+oewn-oppressive-a : oppressant-a, oppressif
+oewn-initiate-v : amorcer-v, initier
+oewn-decorate-v : orner-v, agrémenter, décorer
+oewn-butter-v : butter-v, beurrer
+oewn-trigger-n : gâchette-n, détente
+oewn-lunch-v : déjeuner-v, déjeûner
+oewn-scald-v : échauder-v, échauffer
+oewn-shower-n : doucheur-n, douche, ondée
+oewn-hate-v : haïr-v, détester
+oewn-disgust-n : dégoût-n, dégoûtation, dégoisement, écoeurement
+oewn-cracked-n : fêlé-n, craquelé
+oewn-blindness-n : aveuglement-n, cécité
+oewn-rush-n : jonc-n, jonchère, ruée, ruade
+oewn-braid-n : ganse-n, galon, tresse
+oewn-upset-v : contrarier-v, bouleverser
+oewn-impatient-n : impatient-n, impatiente
+oewn-actor-n : acteur-n, comédien
+oewn-purple-n : violet-n, mauve, pourpre
+oewn-splint-n : éclisse-n, attelle
+oewn-shade-v : nuancer-v, ombrager
+oewn-scholar-a : savant-a, érudit
+oewn-protector-n : protecteur-n, prote
+oewn-cloud-n : nuage-n, nuée
+oewn-rudder-n : palonnier-n, gouvernail
+oewn-return-v : rentrer-v, retourner, restituer, revenir
+oewn-asphalt-v : bitumer-v, asphalter
+oewn-meticulous-a : méticuleux-a, minutieux
+oewn-equalize-v : égaler-v, égaliser
+oewn-annoy-a : ennuyer-a, agacer
+oewn-heritage-n : patrimoine-n, héritage
+oewn-plausible-a : vraisemblable-a, plausible
+oewn-partition-n : cloison-n, partition
+oewn-stale-v : rassortir-v, rasséréner
+oewn-course-n : décours-n, cap, parcours
+oewn-libertine-n : libertinage-n, libertin
+oewn-arrangement-n : arrangement-n, agencement
+oewn-turn-n : tourne-n, vire, tournant, tournure, tournement
+oewn-leader-n : dirigeant-n, meneur, leader
+oewn-driver-n : conducteur-n, chauffeur
+oewn-bewilderment-n : ahurissement-n, égarement
+oewn-mischievous-a : espiègle-a, égrillard
+oewn-palatine-n : palatine-n, palatin
+oewn-flake-n : écaillure-n, paillette, flocon
+oewn-guillotine-n : guillotine-n, guillotinade
+oewn-welding-n : soudure-n, soudage
+oewn-medicine-n : médicament-n, médecine
+oewn-grab-v : happer-v, agripper, accaparer, saisir, empoigner
+oewn-bruise-v : meurtrir-v, contusionner
+oewn-protect-v : prémunir-v, protéger
+oewn-miss-n : miss-n, mademoiselle
+oewn-suitable-a : idoine-a, convenable
+oewn-varnish-v : vernir-v, vernisser
+oewn-counterfeit-n : contrefaçon-n, contre-pied
+oewn-boasting-n : vantardise-n, vanterie
+oewn-picker-n : vendangeur-n, piocheur, vendangeuse
+oewn-rendering-n : équarrissage-n, rendu
+oewn-Greek-n : grecque-n, grec
+oewn-anger-n : fâche-n, colère
+oewn-fleece-n : molleton-n, toison
+oewn-lantern-n : fanal-n, lanterne, lampion
+oewn-crevice-n : crevasse-n, anfractuosité
+oewn-benefit-n : bénéfice-n, bienfait
+oewn-dome-n : dôme-n, coupole
+oewn-poach-v : débaucher-v, pocher
+oewn-engulf-v : engoncer-v, engouffrer, engloutir, engluer
+oewn-lever-n : manette-n, levier
+oewn-fornication-n : fornication-n, impudicité
+oewn-treat-v : traiter-v, régaler
+oewn-capture-v : capturer-v, capter
+oewn-crunch-n : croustade-n, croquade
+oewn-untangle-v : démêler-v, dépêtrer
+oewn-slash-n : taillade-n, escarbille
+oewn-male-n : mâle-n, masculin
+oewn-rape-n : viol-n, viole, colza
+oewn-prostrate-a : prostré-a, prosterner
+oewn-intaglio-n : taille-douce-n, intaille
+oewn-move-n : déménagement-n, bouge, emmènement
+oewn-delay-v : retarder-v, tarder
+oewn-creditor-a : créancier-a, créditeur
+oewn-serf-n : servage-n, serf
+oewn-start-v : démarrer-v, débuter, entamer, commencer
+oewn-smuggler-n : passeur-n, contrebandier
+oewn-bend-a : cambrer-a, cintrer, courber
+oewn-malicious-a : malveillant-a, malicieux
+oewn-love-v : amouracher-v, affectionner, raffoler, aimer
+oewn-clown-n : pitre-n, clown
+oewn-marble-n : marbrier-n, marbre
+oewn-bury-v : enterrer-v, inhumer, enfouir, ensevelir
+oewn-device-n : engin-n, appareil
+oewn-elder-n : aîné-n, aînesse
+oewn-set-n : set-n, ensemble
+oewn-conceal-v : dissimuler-v, receler
+oewn-write-v : écrire-v, rédiger, écrivailler
+oewn-whip-n : pif-n, fouée, brelan, fouet, cravache, foucade
+oewn-tireless-a : infatigable-a, inlassable
+oewn-undress-v : dévêtir-v, déshabiller
+oewn-weight-v : pondérer-v, lester
+oewn-scallop-n : pétoncle-n, écale
+oewn-mold-n : moule-n, moisissure
+oewn-shimmering-a : chatoyant-a, mirobolant
+oewn-repair-n : réfection-n, réparation
+oewn-granny-n : mamie-n, bonne-maman
+oewn-stuffed-n : fourré-n, farci
+oewn-lock-n : verrou-n, écluse, cadenas, serrure
+oewn-Norman-n : normande-n, normand
+oewn-retailer-n : détaillant-n, revendeur
+oewn-merchant-n : commerçant-n, marchand
+oewn-intertwine-v : entrelacer-v, entrecroiser, entrelarder, entremêler
+oewn-toil-v : peiner-v, trimer
+oewn-go down-v : redescendre-v, descendre
+oewn-compensation-n : compensation-n, dédommagement
+oewn-pinch-n : pincée-n, pincement
+oewn-force-a : forcer-a, forcir
+oewn-stamp-v : estamper-v, estampiller, timbrer
+oewn-to die-v : crever-v, trépasser
+oewn-naked-n : nu-n, nue
+oewn-flight-n : envolement-n, volée, envolée
+oewn-hog-n : porcin-n, porcher
+oewn-worker-a : travailleur-a, ouvrier
+oewn-medication-n : médicamentation-n, médication
+oewn-recede-v : reculer-v, recéder
+oewn-applicant-n : demandeur-n, postulant
+oewn-sew-v : couturer-v, roustir, coudre, recoudre
+oewn-original-a : originel-a, original
+oewn-must-n : doit-n, must, devoir
+oewn-sticky-a : poisseux-a, gluant
+oewn-pitiful-a : pitoyable-a, piteux
+oewn-turn-v : virer-v, tourner
+oewn-carnivorous-n : carnassière-n, carnassier
+oewn-satiation-n : rassasiement-n, assouvissance
+oewn-weakening-a : faiblissant-a, affaiblissant
+oewn-tablet-n : pastille-n, tablette
+oewn-spoil-v : abîmer-v, gâter
+oewn-hurry-n : hâte-n, dépêchement
+oewn-preliminary-n : préliminaire-n, préalable
+oewn-wound-n : plaie-n, blessure
+oewn-flourish-v : épanouir-v, fleurir, florir
+oewn-bending-v : courber-v, plier
+oewn-bravado-n : bravade-n, bravache
+oewn-plump-a : dodu-a, rondelet
+oewn-give birth-v : accoucher-v, enfanter
+oewn-smooth-a : onctueux-a, lisse
+oewn-gloomy-a : morose-a, lugubre
+oewn-trace-v : tracer-v, retracer
+oewn-admonition-n : admonition-n, admonestation
+oewn-appeal-n : pourvoi-n, attrait
+oewn-constituent-a : constituant-a, constitutif
+oewn-fall-v : chuter-v, tomber, déchoir
+oewn-material-n : matière-n, matériel, matériau, matérielle
+oewn-coat-v : enrober-v, revêtir, enduire
+oewn-cramped-a : perclus-a, exigu
+oewn-bourgeois-n : bourgeoise-n, bourgeois
+oewn-release-v : relâcher-v, libérer, lâcher
+oewn-gather-v : engranger-v, rassembler, attrouper, réunir, amasser
+oewn-magician-n : magicien-n, magicienne
+oewn-gobble-v : gober-v, gobichonner
+oewn-detect-v : déceler-v, dépister
+oewn-cowardice-n : lâcheté-n, couardise
+oewn-smear-n : frottis-n, barbouille
+oewn-forty_and_one-a : quarante_et_une-a, quarante_et_un
+oewn-museum-n : musée-n, muséum
+oewn-scribble-n : gribouillis-n, gribouillage, griffonnage
+oewn-acquired-n : acquis-n, acquit
+oewn-for-n : pour-n, for
+oewn-puddle-n : mare-n, flaque
+oewn-hanging-n : pendaison-n, tenture, pendu, accrochage
+oewn-fish-v : pêcher-v, repêcher
+oewn-lightning-n : foudre-n, foudroiement, éclair
+oewn-partridge-n : perdreau-n, perdrix
+oewn-titanic-a : titanique-a, titanesque
+oewn-observation-n : constatation-n, observation
+oewn-laird-n : ladre-n, laird
+oewn-glibness-n : gouaille-n, bagout
+oewn-pudding-n : pudding-n, boudin, pouding
+oewn-bellowing-n : beuglante-n, mugissement, beuglement, beuglant
+oewn-overflow-v : déborder-v, surabonder, regorger
+oewn-drip-v : goutter-v, dégouliner
+oewn-hardening-n : durcissement-n, endurcissement
+oewn-dairy-n : laitage-n, laiterie, vacherie
+oewn-fertility-n : fertilité-n, fécondité
+oewn-pheasantry-n : faisandage-n, faisanderie
+oewn-groom-n : marié-n, groom, palefrenier
+oewn-filler-n : mastic-n, bouche-trou
+oewn-cook-n : cuisinier-n, cuisinière
+oewn-funny-n : rigolo-n, drôlesse, drôle
+oewn-ray-n : rayon-n, raie
+oewn-offering-n : offrande-n, offrant
+oewn-emerge-v : débouler-v, surgir, ressortir, émerger
+oewn-pedantry-n : pédanterie-n, pédantisme
+oewn-infamous-a : infâme-a, infamant
+oewn-save-v : épargner-v, sauver, sauvegarder, économiser
+oewn-disgrace-v : déshonorer-v, disgracier
+oewn-redemption-n : rédemption-n, rachat
+oewn-doll-n : poupée-n, poupard
+oewn-challenge-v : défier-v, contester
+oewn-handle-n : manche-n, anse, poignée
+oewn-network-n : réseau-n, network
+oewn-rib-n : nervure-n, côte
+oewn-poor-a : pauvre-a, piètre
+oewn-palm-n : paume-n, palme
+oewn-irritation-n : irritation-n, énervement
+oewn-bring-v : amener-v, apporter
+oewn-brigantine-n : brigantine-n, brigantin
+oewn-sprinkle-v : parsemer-v, asperger, saupoudrer
+oewn-current-a : actuel-a, courant
+oewn-star-n : astre-n, étoile, vedette
+oewn-emetic-n : émétique-n, vomitif
+oewn-bone-n : os-n, ossement
+oewn-drunken-v : soûler-v, saouler
+oewn-throw-n : jeté-n, lancer, jetée
+oewn-shameless-n : sans-gêne-n, vergogne
+oewn-roll-v : rouer-v, rouler
+oewn-toast-n : toast-n, tartine
+oewn-fear-n : crainte-n, peur
+oewn-child-n : enfant-n, puîné
+oewn-bar-n : barreau-n, bar, barre
+oewn-whisper-v : chuchoter-v, murmurer, susurrer
+oewn-suck-v : sucer-v, aspirer
+oewn-jump-v : sauter-v, bondir
+oewn-curve-n : galbe-n, courbe
+oewn-honored-n : honorée-n, honoré
+oewn-dress-n : dresse-n, habit, robe
+oewn-monastic-a : monastique-a, monacal
+oewn-unfortunate-n : fâcheux-n, désheurement
+oewn-mass-n : masse-n, messe
+oewn-azure-n : azur-n, azuré
+oewn-rifle-n : rifle-n, fusil, carabine
+oewn-then-r : ensuite-r, alors
+oewn-companion-n : compagne-n, compagnon
+oewn-decrease-v : diminuer-v, décroître
+oewn-shiver-v : frissonner-v, grelotter
+oewn-grey-v : griser-v, grisonner
+oewn-needy-n : nécessiteux-n, besogneux
+oewn-pack up-v : rembarquer-v, rembarrer
+oewn-eighty-a : quatre-vingt-a, quatre-vingts
+oewn-mischief-n : maléfice-n, espièglerie, méfait
+oewn-maintain-v : entretenir-v, maintenir
+oewn-baffle-v : désarçonner-v, déconcerter
+oewn-annoy-v : ennuyer-v, embêter, agacer
+oewn-wheel-n : rouelle-n, roue
+oewn-illumination-n : illumination-n, enluminure
+oewn-ransacking-n : saccagement-n, saccage
+oewn-review-n : examen-n, revue
+oewn-discourage-a : décourager-a, découronner
+oewn-shoeing-n : ferrure-n, ferrement
+oewn-strawberry-n : paillard-n, fraise
+oewn-minstrel-n : ménétrier-n, ménestrel
+oewn-freeze-a : figer-a, geler, congeler
+oewn-speed-n : vitesse-n, rapidité
+oewn-daughter-in-law-n : bru-n, belle-fille
+oewn-spleen-n : spleen-n, rate
+oewn-reshuffle-v : remanier-v, remmancher
+oewn-freeze-v : figer-v, gréciser, geler, glacer, congeler
+oewn-vacancy-n : inoccupation-n, vacance
+oewn-drunk-a : soûl-a, saoul, ivre
+oewn-waltz-n : valseuse-n, valse
+oewn-round-a : arrondi-a, rond
+oewn-hall-n : hall-n, halle
+oewn-bronze-n : bronze-n, airain
+oewn-huge-a : énorme-a, immense
+oewn-lead-v : plomber-v, mener
+oewn-plaster-n : sparadrap-n, crépi, plâtre, emplâtre, plâtras
+oewn-pair-n : paire-n, pairesse, pair
+oewn-turtle-n : tortue-n, tourtereau
+oewn-search-v : fouiller-v, rechercher, compulser, chercher
+oewn-clairvoyant-a : voyant-a, clairvoyant
+oewn-head-n : en-tête-n, tête
+oewn-mute-n : muet-n, mutisme, muette, sourdine
+oewn-bed-n : parterre-n, lit
+oewn-casting-n : moulage-n, coulage, coulure
+oewn-laundry-n : linge-n, blanchisserie, laverie, lessive
+oewn-pipe-n : pipe-n, pipeau, tuyau
+oewn-express-a : exprès-a, express
+oewn-subordinate-n : subordonné-n, subalterne
+oewn-split-v : scinder-v, fendre, dédoubler
+oewn-erasure-n : rature-n, effaçure, effacement
+oewn-unusual-a : insolite-a, inusité
+oewn-magnetize-v : magnétiser-v, aimanter
+oewn-bloody-a : sanglant-a, sanguinaire, sangler, sanguinolent
+oewn-discuss-v : disserter-v, discuter
+oewn-frolic-v : ébattre-v, batifoler, gambiller
+oewn-twist-n : vrille-n, torsade, tortillard, tortillon, tors
+oewn-binder-n : liant-n, ligueur
+oewn-break-v : briser-v, rompre, casser
+oewn-mandate-v : mander-v, mandater
+oewn-joke-v : plaisanter-v, blaguer
+oewn-leak-n : fuite-n, fuie
+oewn-fanning-v : attiser-v, éventer, éventrer
+oewn-bolt-n : boulon-n, pêne, boulin
+oewn-quarter-n : trimestre-n, quartaut, quart
+oewn-be-n : âtre-n, être
+oewn-veil-n : voilette-n, voile
+oewn-model-n : maquette-n, modèle
+oewn-blouse-n : blouse-n, chemisette, chemisier
+oewn-illuminate-a : éclairer-a, illuminer
+oewn-pants-n : pantalon-n, froc
+oewn-naughty-a : vilain-a, coquin
+oewn-disguise-v : travestir-v, déguiser
+oewn-omnipotence-n : omnipotence-n, toute-puissance
+oewn-knock-n : cogne-n, frappement
+oewn-rebel-v : rebiffer-v, rebeller
+oewn-filling-n : emplissement-n, remplissage, plombage
+oewn-disgusting-n : dégingandage-n, dégoûtant
+oewn-eligible-a : éligible-a, admissible
+oewn-print-n : estampe-n, imprimé
+oewn-dislocation-n : luxation-n, dislocation
+oewn-donkey-n : ânier-n, ânesse, ânonnement, âne
+oewn-embroiderer-n : brodeuse-n, brodeur
+oewn-den-n : antre-n, repaire, tanière
+oewn-bean-n : fève-n, haricot
+oewn-prostration-n : prosternation-n, prostration
+oewn-colleague-n : confrère-n, collègue
+oewn-satisfy-v : assouvir-v, satisfaire
+oewn-tour-n : tour-n, tournée
+oewn-word-n : vocable-n, parole, mot
+oewn-turkey-n : dindon-n, dinde
+oewn-subordinate-v : subordonner-v, inféoder
+oewn-set up-v : préposer-v, dresser
+oewn-revenge-n : vengeance-n, revanche
+oewn-fiddling-n : tripotement-n, tripotage
+oewn-perched-n : perchée-n, perché
+oewn-replacement-n : remplacement-n, replacement
+oewn-unoccupied-a : désoccupé-a, inoccupé
+oewn-dying-n : mourant-n, agonisant
+oewn-clowning-n : pitrerie-n, clownerie
+oewn-exonerate-v : exonérer-v, disculper
+oewn-flap-n : lambeau-n, rabat
+oewn-hummingbird-n : colibri-n, oiseau-mouche
+oewn-border-n : liseré-n, liséré, margelle, bordée, bordure, frontière
+oewn-cough-v : toussoter-v, toussailler, tousser
+oewn-devil-n : diablesse-n, diable
+oewn-necropolis-n : nécropsie-n, nécropole
+oewn-cross-v : traverser-v, barrer, franchir, croiser
+oewn-invite-v : convier-v, inviter
+oewn-pimping-n : maquerellage-n, proxénétisme
+oewn-brighten-v : éclaircir-v, égayer
+oewn-beak-n : becquée-n, bec
+oewn-supplement-n : supplément-n, complément, appoint
+oewn-cutting-n : découpage-n, bouture, coupage, découpure
+oewn-grant-n : subvention-n, octroi
+oewn-tribute-n : tribut-n, hommage
+oewn-bind-v : ligoter-v, corder, engluer, lier
+oewn-fancy-a : fantaisiste-a, fantaisie
+oewn-associate-v : associer-v, adjoindre
+oewn-weighing-n : pesée-n, pesant, pesage
+oewn-arise-v : sourdre-v, surgir
+oewn-grooming-n : encanaillement-n, ravalement, pansage
+oewn-beater-n : battoir-n, batteur
+oewn-sheet-n : alèse-n, drap
+oewn-bastard-n : badigeonneur-n, bâtard, bâtarde
+oewn-key-n : clef-n, clé, clavette, claveau
+oewn-president-n : président-n, bâtonnier
+oewn-counter-n : encontre-n, comptoir, guichet
+oewn-blush-v : blêmir-v, rougir, farder
+oewn-heaviness-n : lourdeur-n, pesanteur
+oewn-famous-a : famé-a, fameux, célèbre
+oewn-blunt-n : émoussement-n, blutoir
+oewn-fluffy-a : pelucheux-a, duveteux
+oewn-bohemian-n : bohémien-n, bohème
+oewn-irritate-v : énerver-v, irriter
+oewn-tenant-n : locataire-n, tenancier
+oewn-bay-n : bai-n, bay, baie
+oewn-repress-v : réprimer-v, refouler
+oewn-alpine-a : alpin-a, alpestre
+oewn-intoxicate-v : enivrer-v, intoxiquer
+oewn-tumbling-n : dégringolade-n, culbutant
+oewn-now-r : maintenant-r, désormais
+oewn-ooze-n : suint-n, suintement
+oewn-stain-n : souillure-n, badigeon, tache
+oewn-household-n : ménage-n, maisonnée
+oewn-murder-n : meurtre-n, assassinat
+oewn-anticipate-v : anticiper-v, devancer
+oewn-contribution-n : cotisation-n, contribution, apport
+oewn-stretch-v : étirer-v, dégourdir
+oewn-needle-n : aiguillette-n, aiguille
+oewn-schoolboy-n : écolier-n, collégien
+oewn-skirt-n : houppelande-n, jupe
+oewn-despicable-a : méprisable-a, ignoble
+oewn-hinder-v : gêner-v, entraver
+oewn-town-n : bourgade-n, bourg
+oewn-body-a : carrosser-a, corporel
+oewn-deranged-n : dérangé-n, détraqué
+oewn-branching-n : branchement-n, embranchement, branchage
+oewn-vat-n : bac-n, cuvier
+oewn-refinement-n : affinement-n, raffinement
+oewn-replace-v : remplacer-v, replacer
+oewn-heel-v : gîter-v, taler, talonner
+oewn-perceptive-a : perceptif-a, perspicace
+oewn-throw away-v : jeter-v, déjeter
+oewn-wick-n : mèche-n, dèche
+oewn-messy-a : désordonner-a, salissant
+oewn-sketch-n : esquille-n, croquis, esquisse
+oewn-detour-n : détournement-n, détour
+oewn-grumpy-a : grognon-a, grincheux
+oewn-gorging-v : gorger-v, gaver
+oewn-frosting-v : dépolir-v, givrer
+oewn-entanglement-n : emmêlement-n, enchevêtrement
+oewn-power-n : pouvoir-n, puissance
+oewn-know-v : connaître-v, savoir
+oewn-privacy-n : intimité-n, privauté
+oewn-millet-n : millet-n, mil
+oewn-deflower-v : déflorer-v, défleurir
+oewn-polish-v : pommeler-v, polir, polissonner, astiquer
+oewn-modesty-n : pudeur-n, modestie, modicité
+oewn-gutter-n : rigoleur-n, caniveau, gouttière
+oewn-burned-n : incendié-n, brûlé
+oewn-ring-v : sonner-v, anneler
+oewn-sleep-v : coucher-v, dormir
+oewn-bigotry-n : bigoterie-n, bigotisme, bigarrure
+oewn-medium-n : médium-n, moyen
+oewn-mosquito-n : maringouin-n, moustique
+oewn-adjustment-n : ajustement-n, ajustage
+oewn-plucking-v : plumer-v, déplumer
+oewn-tribune-n : tribun-n, tribunat, tribune
+oewn-crossbow-n : arbalète-n, croisillon
+oewn-staggering-n : échevèlement-n, titubation, stupéfiant, échelonnement
+oewn-antique-n : antique-n, antiquaille
+oewn-rain-n : pluie-n, averse
+oewn-referral-n : renvoi-n, aiguillée
+oewn-balaclava-n : passe-montagne-n, cagoule
+oewn-man-n : homme-n, bonhomme
+oewn-discourage-v : décourager-v, découronner
+oewn-reflection-n : réflexion-n, reflet, reflètement
+oewn-carry-v : porter-v, trimbaler, trimballer
+oewn-reduce-v : réduire-v, amoindrir
+oewn-coward-a : poltron-a, couard
+oewn-pimp-n : maquignon-n, souteneur, maquereau
+oewn-collate-v : collationner-v, colleter
+oewn-color-n : couleur-n, coloris
+oewn-girl-n : fifille-n, fillette
+oewn-wrinkled-n : froncé-n, ridée
+oewn-cavity-n : cavité-n, cavée
+oewn-call-n : appel-n, appeau
+oewn-break-a : briser-a, rompre, casser
+oewn-tan-n : hâle-n, tan
+oewn-lottery-n : loterie-n, loto
+oewn-surly-a : hargneux-a, revêche
+oewn-delete-v : biffer-v, supprimer
+oewn-related-a : afférent-a, connexe
+oewn-loitering-n : flânerie-n, flâne
+oewn-unload-v : débarquer-v, décharner, débarasser, décharger, délester
+oewn-encroachment-n : empiétement-n, empiètement
+oewn-slender-a : svelte-a, fluet
+oewn-attack-n : attentat-n, attaque
+oewn-approval-n : agrément-n, approbation
+oewn-turn-a : tournant-a, transir, tourner
+oewn-sketch-v : esquisser-v, ébaucher
+oewn-check-n : vérification-n, coche, chèque
+oewn-jumping-n : sauterie-n, sautillement
+oewn-snake-n : serpenteau-n, serpent, serpentement, couleuvre
+oewn-leave-v : laisser-v, quitter, partir, délaisser
+oewn-shooting-n : fusillade-n, tir
+oewn-ironing-n : repassage-n, repasseur, repasse
+oewn-mockery-n : goguenardise-n, moquerie, raillerie
+oewn-final-a : final-a, définitif
+oewn-currency-n : devise-n, monnaie
+oewn-bite-n : morsure-n, mordillement, mordant
+oewn-flow-n : flux-n, coule, débit, flot, écoulement, coulée
+oewn-frantic-a : frénétique-a, effréné
+oewn-blind-n : store-n, aveugle, aveuglette
+oewn-trunk-n : tronc-n, trompe, coffre, malle
+oewn-angry-a : colérique-a, coléreux
+oewn-perfume burner-n : brûle-parfum-n, brûle-parfums
+oewn-attack-v : attenter-v, attaquer
+oewn-gray-n : grisée-n, gris
+oewn-stumble-v : trébucher-v, buter, broncher
+oewn-station-n : station-n, gare
+oewn-repulsion-n : repoussement-n, répulsion
+oewn-valley-n : vallon-n, vallée
+oewn-return-n : revient-n, retour, revenue, retourne
+oewn-notebook-n : carnet-n, calepin, cahier
+oewn-gunner-n : canonnier-n, artilleur
+oewn-mix-v : mêler-v, mélanger
+oewn-insulting-a : injurieux-a, insultant
+oewn-cold-n : froid-n, rhume
+oewn-reduction-n : réduction-n, amoindrissement
+oewn-poppy-n : pavot-n, coquelicot
+oewn-convenience-n : commodité-n, convenance
+oewn-engage-v : fiancer-v, engager
+oewn-dazzling-a : éblouissant-a, fulgurant
+oewn-sentimentality-n : sentimentalité-n, sentimentalisme
+oewn-niche-n : niche-n, créneau
+oewn-compass-n : compas-n, boussole
+oewn-ferret-n : furet-n, ferret
+oewn-prejudice-n : préjudice-n, préjugé
+oewn-go-n : go-n, aller
+oewn-balance-n : solde-n, équilibre
+oewn-sleepy-v : assoupir-v, endormir
+oewn-revolutionary-n : révolutionnaire-n, révolutionnarisme
+oewn-sinking-n : enfonçage-n, enfoncement
+oewn-hull-n : carène-n, coque
+oewn-punishment-n : châtiment-n, punition
+oewn-push-n : poussée-n, poussa, pousse
+oewn-crumple-a : chiffonner-a, froisser
+oewn-addition-n : adjonction-n, addition
+oewn-filth-n : crasse-n, immondice
+oewn-enjoy-v : apprécier-v, jouir, savourer
+oewn-scraping-v : décrotter-v, ferrailler
+oewn-chaplain-n : chapelain-n, aumônier
+oewn-barrel-n : tonneau-n, futaille, barillet, baril, barrique, fût
+oewn-screen-n : moustiquaire-n, crible, paravent, écran
+oewn-attic-n : attique-n, grenier
+oewn-watchman-n : vigie-n, guetteur, veilleur
+oewn-beat-n : battement-n, bat
+oewn-deform-v : difformer-v, déformer
+oewn-embarrassing-a : embarrassant-a, gênant
+oewn-female-a : femelle-a, féminin
+oewn-pot-n : pot-n, potée
+oewn-ointment-n : pommade-n, onguent
+oewn-stiffness-n : roideur-n, raideur
+oewn-taxation-n : fiscalité-n, imposition
+oewn-stamp-a : estamper-a, timbrer
+oewn-host-v : héberger-v, accueillir
+oewn-right-n : droite-n, droit
+oewn-paving-n : dallage-n, pavage
+oewn-manufacture-n : fabrication-n, manufacture
+oewn-boom-n : estacade-n, boum
+oewn-call-v : cabaler-v, héler, appeler, interpeller
+oewn-repeat-v : redire-v, répéter
+oewn-current-n : courante-n, courant
+oewn-retreat-v : reculer-v, retraiter
+oewn-wallflower-n : giroflier-n, giroflée
+oewn-stiff-a : roide-a, raide
+oewn-mole-n : taupe-n, môle
+oewn-above-r : au-dessus-r, ci-dessus
+oewn-immortal-n : immortelle-n, immortel
+oewn-fir tree-n : sapin-n, sapinette, sapinière
+oewn-cure-v : soigner-v, curer, guérir
+oewn-disorganize-v : désorganiser-v, désordonner
+oewn-platform-n : plate-forme-n, plateforme, quai
+oewn-compound-n : composé-n, composée
+oewn-tapping-n : tapotage-n, tapement
+oewn-join-v : rejointoyer-v, joindre, rejoindre, accoler, conjoindre
+oewn-take over-v : emparer-v, accaparer
+oewn-seize-v : saisir-v, gripper, emparer
+oewn-adventure-n : péripétie-n, aventure
+oewn-extinction-n : éteignement-n, extinction
+oewn-finish-v : finasser-v, parachever, finir, achever, terminer
+oewn-feasible-a : faisable-a, réalisable
+oewn-impress-v : impressionner-v, épater
+oewn-establish-v : attabler-v, établir
+oewn-savagery-n : sauvagerie-n, sauvagesse
+oewn-wander-v : baguenauder-v, vagabonder, bourlinguer, errer, vaguer, déambuler
+oewn-swallow-v : avaler-v, ravaler, gober, engloutir
+oewn-sword-n : épée-n, glaive
+oewn-broom-n : genêt-n, balai
+oewn-resident-n : pensionnaire-n, habitant, résident, riverain
+oewn-shroud-n : hauban-n, suaire, linceul
+oewn-start-n : commencement-n, début, entame
+oewn-inconsistent-a : inconstant-a, inconséquent
+oewn-deception-n : duperie-n, déception, tromperie, supercherie
+oewn-disseminate-v : diffuser-v, disséminer
+oewn-crepe-v : crépir-v, crêper
+oewn-rut-n : ornière-n, rut
+oewn-district-n : circonscription-n, quartier, district
+oewn-concern-v : concerner-v, préoccuper
+oewn-fire-n : feu-n, incendie
+oewn-moving-a : émouvant-a, mouvant
+oewn-tremor-n : tremblement-n, trémoussement
+oewn-flag-n : pavillon-n, drapeau
+oewn-classify-v : classifier-v, classer
+oewn-bulge-n : bourrelet-n, renflement
+oewn-tighten-a : serrer-a, resserrer
+oewn-file-n : file-n, dossier, lime
+oewn-cadet-n : cadette-n, cadet
+oewn-enter-v : entrer-v, enter, renter, enténébrer
+oewn-dejection-n : déjection-n, abattement
+oewn-rate-n : taux-n, tarif
+oewn-ungainly-a : malsonnant-a, disgracieux
+oewn-acrobat-n : acrobate-n, saltimbanque
+oewn-supply-n : approvisionnement-n, fourniture, ravitaillement
+oewn-coloring-n : coloration-n, coloriage
+oewn-backfill-n : remblai-n, remblayage
+oewn-deaf-n : sourde-n, sourd
+oewn-trepidation-n : trépignée-n, trépidation, trépignement
+oewn-watch-n : veille-n, guet, aguets, guette, montre
+oewn-outlet-n : débouché-n, exutoire
+oewn-parking-n : voiturage-n, parcage
+oewn-exciting-a : passionnant-a, excitant
+oewn-hyacinth-n : jacinthe-n, hyacinthe
+oewn-tutor-n : tuteur-n, précepteur, tutoyeur
+oewn-sheathing-v : engainer-v, rengainer
+oewn-combine-v : combiner-v, allier
+oewn-dismemberment-n : écartèlement-n, démembrement
+oewn-wobble-v : chanceler-v, flageoler
+oewn-fill in-v : remplumer-v, reboucher
+oewn-yelp-v : gueuler-v, glapir
+oewn-marry-v : marier-v, épouser
+oewn-abhor-v : abhorrer-v, exécrer
+oewn-lush-a : luxuriant-a, plantureux
+oewn-hoarding-v : amasser-v, thésauriser
+oewn-close-v : refermer-v, fermer, clore
+oewn-speech-n : discours-n, allocution, speech
+oewn-bawl-v : chambrer-v, brailler
+oewn-straddle-v : enjamber-v, enfourcher
+oewn-priesthood-n : sacerdoce-n, prêtrise
+oewn-dove-n : colombe-n, lombe
+oewn-believe-v : croire-v, accroire
+oewn-weigh-v : peser-v, soupeser
+oewn-unfortunate-a : malencontreux-a, malheureux, infortuné, regrettable
+oewn-buy-v : acheter-v, racheter
+oewn-corner-n : encoignure-n, coin, recoin
+oewn-handle-a : maniérer-a, manier
+oewn-find-v : retrouver-v, controuver, dégoter, trouver
+oewn-chain-n : chaîne-n, chaînette
+oewn-edge-n : bord-n, arête, rebord
+oewn-boot-n : bottine-n, botte
+oewn-criminal-n : criminel-n, criminelle
+oewn-premise-n : prémisse-n, prémices
+oewn-benign-a : benêt-a, bénin
+oewn-well-n : puits-n, bien
+oewn-soak-v : imbiber-v, détremper
+oewn-match-v : assortir-v, correspondre, acoquiner, appareiller
+oewn-serious-a : grave-a, sérieux
+oewn-downhill-v : redescendre-v, dévaler
+oewn-pretending-a : feignant-a, feindre
+oewn-appetite-n : appétence-n, appétit
+oewn-shackle-n : chançard-n, manille
+oewn-hold-a : détenir-a, tenir
+oewn-indent-v : échancrer-v, édenter
+oewn-Neapolitan-n : napolitain-n, napolitaine
+oewn-bite-a : mordre-a, mordorer
+oewn-make-up-n : maquillage-n, maquignonnage
+oewn-vase-n : vase-n, potiche
+oewn-crush-a : écraser-a, broyer, concasser
+oewn-bedding-n : litière-n, literie
+oewn-rag-n : chiffonne-n, chiffe, guenille, chiffon, loque, chiffonnière, haillon, torchon
+oewn-translation-n : translation-n, traduction
+oewn-brochure-n : plaquette-n, brochure
+oewn-greening-v : verdir-v, verdoyer, reverdir
+oewn-derail-v : dérailler-v, détraquer, dérégler
+oewn-dresser-n : dressoir-n, habilleur
+oewn-post-n : poteau-n, poste
+oewn-claim-n : réclamation-n, réclame, revendication
+oewn-headache-n : migraine-n, tue-tête
+oewn-bug-n : bestiole-n, punaise
+oewn-unravelling-v : débrouiller-v, débrailler, découdre
+oewn-deify-v : diviniser-v, déifier
+oewn-grind-v : moudre-v, broyer
+oewn-decline-v : décliner-v, déclouer
+oewn-shell-n : coquille-n, obus, coquillage
+oewn-growing-a : grossissant-a, grandissant
+oewn-souvenir-v : ressouvenir-v, souvenir
+oewn-sarcastic-a : narquois-a, sarcastique
+oewn-worker-n : ouvrière-n, travailleur, travailleuse, ouvrier
+oewn-hatch-n : trappe-n, hachure, écoutille
+oewn-distress-v : détresser-v, désemparer
+oewn-decanter-n : carafe-n, carafon
+oewn-grabbing-n : happement-n, empoignade
+oewn-bacon-n : lardon-n, bacon
+oewn-phthisis-n : phtisique-n, phtisie
+oewn-bottle-n : biberon-n, bouteille, flacon
+oewn-stove-n : poêle-n, réchaud, poële
+oewn-force-v : forcer-v, astreindre
+oewn-require-v : requérir-v, nécessiter
+oewn-whip-v : flageller-v, fouetter
+oewn-heroic-a : héroïque-a, héroï-comique
+oewn-award-v : adjuger-v, décerner
+oewn-embarrass-v : embarrasser-v, gêner
+oewn-extension-n : rallonge-n, extension, prolongation, prolongement
+oewn-house-v : loger-v, héberger
+oewn-cake-n : tourteau-n, gâteau
+oewn-fold-v : replier-v, reployer, plier
+oewn-asphalt-n : bitume-n, asphalte
+oewn-jubilation-n : liesse-n, jubilation
+oewn-mend-v : repriser-v, raccommoder
+oewn-reconstruction-n : reconstitution-n, reconstruction
+oewn-gallop-n : galopade-n, galope, galop, galopin
+oewn-nipple-n : mamelon-n, nippe, téton
+oewn-rocky-a : rocheux-a, rocailleux
+oewn-gravel-n : gravier-n, graillon, gravelle, gravelure
+oewn-pig-a : cochon-a, porcin
+oewn-beggar-n : quémandeur-n, mendiant, gueux
+oewn-morning-n : matin-n, matinée
+oewn-blush-n : fardée-n, fard
+oewn-kiss-n : baiser-n, embrasse, bise
+oewn-diving-n : plongeon-n, plongée
+oewn-blunder-n : bourde-n, bévue
+oewn-eliminate-v : éliminer-v, élimer
+oewn-violet-n : violette-n, violacée
+oewn-stuffing-v : bourreler-v, goinfrer, bourrer, rembarrer, empailler, farcir, empiffrer, fourrer
+oewn-lingerie-n : lingerie-n, lingère
+oewn-degeneration-n : dégénération-n, dégénérescence
+oewn-radiant-a : rayonnant-a, radieux
+oewn-grumble-v : maugréer-v, râler, grommeler, bougonner
+oewn-coating-n : revêtement-n, enduit
+oewn-favorite-n : favori-n, favorite
+oewn-pumpkin-n : citrouille-n, potiron
+oewn-impotence-n : impotence-n, impuissance
+oewn-day-n : jour-n, journée
+oewn-abandoned-n : délaissé-n, abandonné
+oewn-unexpected-a : inopiné-a, imprévu, inattendu
+oewn-carelessness-n : insouciance-n, incurie
+oewn-close-a : proche-a, fermer, clore
+oewn-fussing-n : tracassier-n, tatillonnage
+oewn-stake-n : épieu-n, pieu
+oewn-abandonment-n : abandon-n, abandonnement
+oewn-cap-n : calotte-n, capuchon, bonnet, casquette, coiffe
+oewn-sneer-n : ricanerie-n, ricanement
+oewn-careless-a : insoucieux-a, négligent
+oewn-bewilder-v : interloquer-v, ahurir
+oewn-covered-n : couvert-n, couverte
+oewn-glittering-a : scintillant-a, étincelant
+oewn-planter-n : plantoir-n, planteur
+oewn-stone-v : lapider-v, empierrer
+oewn-factory-n : fabrique-n, usine, factorerie
+oewn-cut-n : coupée-n, coupe, découpe, coupure, coupé
+oewn-sound-v : sonner-v, retentir
+oewn-dreamer-n : rêveur-n, rêvasseur
+oewn-weaken-v : affaiblir-v, faiblir
+oewn-ruffle-v : ébruiter-v, hérisser, rabrouer, ébouriffer
+oewn-bent-n : aloi-n, coudée
+oewn-sheet metal-n : tôle-n, taule
+oewn-wet-a : humide-a, mouiller
+oewn-estimate-n : estime-n, estimation
+oewn-torpid-a : torve-a, torpide
+oewn-pan-n : casserole-n, poêlon, pan
+oewn-priest-n : prêtre-n, sacrificateur, curé
+oewn-halo-n : halo-n, auréole
+oewn-bluster-n : esbroufe-n, esbrouffe, fanfaronnade
+oewn-hello-n : salut-n, bonjour
+oewn-sulk-v : bouder-v, bouter
+oewn-flexible-a : flexible-a, souple
+oewn-wasteful-n : dilapidateur-n, gaspilleur
+oewn-flirting-n : flirtage-n, flirtation
+oewn-boastful-n : hâbleur-n, fanfaron
+oewn-perfect-v : parfaire-v, perfectionner
+oewn-unfold-v : déployer-v, déplier
+oewn-heal-v : cicatriser-v, guérir
+oewn-offend-v : offusquer-v, offenser
+oewn-clumsy-n : maladroit-n, balourd, pataud
+oewn-trinket-n : colifichet-n, bibelot
+oewn-fine-n : fin-n, amende, fine
+oewn-revive-v : raviver-v, renauder, ragaillardir, revivre, revancher, renaître, relancer, ravauder, ranimer
+oewn-spit-n : tournebroche-n, crachat
+oewn-closet-n : penderie-n, closerie
+oewn-spur-n : aiguillon-n, éperon
+oewn-groove-n : cannelure-n, rainure
+oewn-helmet-n : casque-n, heaume
+oewn-stick-n : bâton-n, stick
+oewn-storm-n : tempête-n, orage
+oewn-raise-v : hausser-v, élever, exhausser, lever, relever, rehausser, susciter, soulever
+oewn-pluck-v : épiler-v, arracher, plumer
+oewn-drunkenness-n : ivresse-n, soûlerie, saoulerie, ivrognerie
+oewn-taste-v : goûter-v, déguster
+oewn-burp-v : roquer-v, roter
+oewn-staggering-v : échelonner-v, tituber, chanceler
+oewn-scoop-n : ramas-n, écuellée
+oewn-host-n : hostie-n, hôte
+oewn-swordsman-n : sabreur-n, bretteur
+oewn-progress-n : progrès-n, progression
+oewn-desirable-a : désirable-a, souhaitable
+oewn-attic-a : attique-a, mansardé
+oewn-guard-n : gardien-n, garde, gardeur
+oewn-toadstool-n : crapoussin-n, crapaudine, crapaudière
+oewn-track down-v : traquer-v, dépister
+oewn-sylph-n : sylphe-n, sylphide
+oewn-blacksmith-n : forgeur-n, forgeron
+oewn-blow-v : souffleter-v, souffler
+oewn-slave-n : esclave-n, esclavon, slave
+oewn-sofa-n : sofa-n, canapé
+oewn-collar-n : collerette-n, col, collier, collet
+oewn-plowshare-n : soc-n, socque
+oewn-escape-v : échapper-v, évader, réchapper
+oewn-park-v : garer-v, parquer, stationner
+oewn-bell tower-n : clocheton-n, campanile
+oewn-painful-a : douloureux-a, pénible
+oewn-arduous-a : aratoire-a, ardu
+oewn-taunt-v : narguer-v, railler
+oewn-obstinacy-n : obstination-n, opiniâtreté
+oewn-wait-v : attendre-v, patienter
+oewn-fly-v : voler-v, revoler, moucher, voleter, envoler
+oewn-smother-v : étouffer-v, étouper
+oewn-wiggle-n : tortillement-n, déhanchement
+oewn-bite-v : morguer-v, mordre, mordorer
+oewn-shot-n : tiré-n, tirée, grenaille
+oewn-harvest-n : récolte-n, vendange, moisson
+oewn-callus-n : durillon-n, cal, callosité
+oewn-blink-n : oeillade-n, clignement
+oewn-hiring-n : embaucheur-n, embauchage
+oewn-booklet-n : livret-n, opuscule
+oewn-presentation-n : exposé-n, présentation
+oewn-weaver-n : tisseur-n, pisseur, tisserand
+oewn-milky-a : lacté-a, laiteux
+oewn-teller-n : guichetier-n, diseur
+oewn-jabber-v : jaboter-v, jacasser
+oewn-penis-n : verge-n, pénis
+oewn-loading-n : enfournement-n, chargement
+oewn-rabbit-n : lapin-n, lapereau
+oewn-reverse-n : envers-n, revers
+oewn-valiant-a : vaillant-a, valeureux
+oewn-decouple-v : découpler-v, découcher
+oewn-garment-n : oripeau-n, vêtement
+oewn-furnish-v : affubler-v, meubler
+oewn-solicit-v : solliciter-v, racoler
+oewn-swell-v : gonfler-v, enfler, tuméfier
+oewn-same-a : pareil-a, même
+oewn-hit-v : heurter-v, frapper
+oewn-boy-n : garçonnet-n, garçon
+oewn-ball-n : bille-n, boulet, balle, boule, bal
+oewn-oppress-v : opprimer-v, oppresser
+oewn-tanning-n : bronzage-n, tannage
+oewn-residence-n : demeure-n, résidence
+oewn-get drunk-v : soûler-v, saouler
+oewn-hear-a : ouïr-a, entendre
+oewn-rejoice-v : rejaillir-v, réjouir
+oewn-pout-n : moue-n, mouise
+oewn-hood-n : hotte-n, capuche
+oewn-bather-n : baigneuse-n, baigneur
+oewn-writing-n : rédaction-n, écriture
+oewn-shuffle-v : fricoter-v, fricasser, rebattre
+oewn-frighten-v : effarer-v, effrayer, frégater, épouvanter
+oewn-acquisition-n : acquisition-n, acquêt
+oewn-mastiff-n : dogue-n, mâtin
+oewn-violate-a : violer-a, violenter
+oewn-nostril-n : narine-n, naseau
+oewn-identify-v : identifier-v, cerner
+oewn-river-n : fleuve-n, rivière
+oewn-knife-n : canif-n, couteau
+oewn-recurrence-n : récurrence-n, récidive
+oewn-strawberry-v : pailler-v, pailleter
+oewn-incense-n : encens-n, encenseur
+oewn-puppet-n : guignol-n, pantin, marionnette, fantoche
+oewn-prune-v : élaguer-v, émonder
+oewn-suit-n : costume-n, tailleur, combinaison
+oewn-flutter-v : papilloter-v, papillonner, fanfrelucher, voltiger
+oewn-triple-n : triple-n, triplement
+oewn-assistant-n : assistant-n, adjoint
+oewn-orange-n : orangé-n, orange
+oewn-sweat-v : transpirer-v, suer
+oewn-informal-a : officieux-a, informulé
+oewn-depress-v : déprimer-v, dépiter
+oewn-shake-v : trembler-v, agiter, secouer
+oewn-flaming-n : flambant-n, flammèche
+oewn-pendulum-n : balancier-n, pendule
+oewn-scaffold-n : escabelle-n, échafaudage, échafaud
+oewn-slavery-n : esclandre-n, esclavage
+oewn-oil-n : pétrole-n, huile
+oewn-arch-n : arcade-n, arche
+oewn-damn-a : fichu-a, damner
+oewn-curling-a : frisant-a, chantourner
+oewn-teacher-n : instituteur-n, enseignant
+oewn-gossip-v : commérer-v, potiner
+oewn-furnace-n : fournaise-n, fourneau
+oewn-mediation-n : médiation-n, entremise
+oewn-silk-n : soie-n, soierie
+oewn-skulduggery-n : filoutage-n, filouterie
+oewn-consider-v : envisager-v, songer, considérer
+oewn-scratch-v : gratter-v, rayer, érafler, raturer, griffer, égratigner
+oewn-sound-n : sonore-n, sonorité
+oewn-lose-v : reperdre-v, perdre
+oewn-show-v : exhiber-v, manifester, montrer
+oewn-tartan-n : tartan-n, tartane
+oewn-lick-v : lécher-v, licher, pourlécher
+oewn-drop-v : baisser-v, lâcher
+oewn-subscribe-v : souscrire-v, abonner
+oewn-disclaimer-n : désistement-n, démenti
+oewn-intoxication-n : enivrement-n, intoxication
+oewn-notch-v : gruger-v, entailler
+oewn-ford-n : guéret-n, gué
+oewn-step-n : échelon-n, étape
+oewn-harangue-n : harangueur-n, harangue
+oewn-bat-n : batte-n, chauve-souris
+oewn-pique-n : pique-n, piqué
+oewn-number-n : numéro-n, nombre
+oewn-assert-v : affirmer-v, asséner
+oewn-hunt-n : chassieux-n, chasse
+oewn-chance-n : hasard-n, chance
+oewn-overflow-n : débordement-n, trop-plein
+oewn-invasion-n : envahissement-n, invasion
+oewn-swarm-v : fourmiller-v, grouiller
+oewn-cramp-n : cramponnement-n, crampe
+oewn-anchor-n : ancre-n, mouillage
+oewn-specify-v : préciter-v, spécifier, préciser
+oewn-turmoil-n : touffeur-n, tourmente
+oewn-supplicate-v : supputer-v, supplicier
+oewn-hutch-n : clapier-n, huche
+oewn-cuddling-n : acoquinement-n, câlinerie
+oewn-sorry-v : désoler-v, navrer
+oewn-preacher-n : prédicant-n, prédicateur, prêcheur, prôneur
+oewn-juice-n : jusant-n, jus
+oewn-romance-n : romance-n, romantisme
+oewn-emancipation-n : émancipation-n, affranchissement
+oewn-send-v : députer-v, expédier, envoyer, enverguer
+oewn-name-v : nommer-v, dénommer
+oewn-however-r : cependant-r, toutefois
+oewn-native-a : indigène-a, autochtone, originaire
+oewn-stuffing-n : farce-n, farfouillement, bourrèlement, bourre
+oewn-cowboy-n : vachette-n, vacher
+oewn-unreasonable-a : irraisonné-a, déraisonnable
+oewn-strip-n : bandelette-n, bande
+oewn-hunting-a : chiner-a, chassant
+oewn-scrape-v : racler-v, râcler, érailler
+oewn-win-v : remporter-v, gagner
+oewn-chariot-n : charretée-n, charroi
+oewn-bow-n : arc-n, archet, étrave, proue
+oewn-cripple-n : infirme-n, estropié
+oewn-invaluable-a : inestimable-a, inappréciable
+oewn-secretariat-n : secrétariat-n, secrétairerie
+oewn-scorch-v : boucaner-v, roussir
+oewn-debauched-n : débauché-n, dévergondé
+oewn-dam-n : barrage-n, digue, dam
+oewn-begging-v : quémander-v, mendier
+oewn-tumble-v : culbuter-v, dégringoler
+oewn-ride-v : chevaucher-v, monter
+oewn-read-v : lisérer-v, lire
+oewn-fragment-v : morceler-v, fragmenter
+oewn-repel-v : répugner-v, rebuter, repousser
+oewn-racket-n : tapage-n, raquette, vacarme
+oewn-reveal-v : révéler-v, déceler
+oewn-money-n : thune-n, argent
+oewn-restless-n : agité-n, ressassement
+oewn-wormy-a : véreux-a, glaireux
+oewn-thirty-something-n : trentaine-n, trentenaire
+oewn-lobster-n : homard-n, langouste
+oewn-scouring-v : cingler-v, affouiller, récurer
+oewn-green-a : vert-a, verdoyant
+oewn-hot-n : chaud-n, chaude
+oewn-oven-n : étuve-n, four
+oewn-exit-n : sortie-n, issue
+oewn-slander-n : calomnie-n, diffamation, médisance
+oewn-encourage-v : encourir-v, encourager
+oewn-handling-n : manipulation-n, manutention, maniement
+oewn-gap-n : écart-n, interstice
+oewn-bank-n : rive-n, banque, berge
+oewn-disburse-v : débourser-v, débouter
+oewn-log-n : rondin-n, billot, bûche
+oewn-core-n : noyau-n, trognon
+oewn-showman-n : montreur-n, forain
+oewn-stupor-n : stupeur-n, stupre
+oewn-sailor-n : matelot-n, marinier
+oewn-neighboring-v : avoisiner-v, voisiner
+oewn-disruption-n : pertuis-n, perturbation, dérèglement
+oewn-confess-v : avouer-v, confesser
+oewn-chat-n : causette-n, causerie
+oewn-movement-n : mouvement-n, mouvance
+oewn-torment-n : supplice-n, tourment
+oewn-gobbler-n : gobeur-n, détrousseur
+oewn-humming-v : chantonner-v, fredonner
+oewn-banner-n : bannière-n, banne, banderole, oriflamme, étendard, bannette
+oewn-discerning-v : discerner-v, décerner
+oewn-soap opera-n : feuilletoniste-n, roman-feuilleton, feuilleton
+oewn-country-a : champêtre-a, campagnard, country
+oewn-slingshot-v : écheniller-v, fronder
+oewn-tame-v : apprivoiser-v, dompter
+oewn-surrender-n : reddition-n, capitulation
+oewn-piece-n : morceau-n, pièce
+oewn-stretch-n : étirement-n, étire, strette, détirement
+oewn-lazy-n : fainéant-n, paresseux
+oewn-limit-a : borner-a, limiter
+oewn-dispute-n : dispute-n, différend, litige
+oewn-uninhabitable-a : inhabile-a, inhabitable
+oewn-enamor-v : enamourer-v, énamourer
+oewn-rename-v : renommer-v, rebaptiser
+oewn-retirement-n : retirement-n, retraite
+oewn-end-n : extrémité-n, end
+oewn-attachment-n : attache-n, attachement
+oewn-contact-n : contact-n, interlocuteur
+oewn-desiccate-v : dessécher-v, dessiller, desseller
+oewn-valve-n : soupape-n, vanne
+oewn-distance-n : distance-n, éloignement
+oewn-lawn-n : gazon-n, pelouse
+oewn-galley-n : galiote-n, galetas, galère
+oewn-discount-n : rabais-n, remise, escompte
+oewn-spring-n : printemps-n, ressort
+oewn-swelling-n : tuméfaction-n, enflure, gonflement
+oewn-easy-a : aisé-a, facile
+oewn-violate-v : violacer-v, violer, violenter
+oewn-farmer-n : agriculteur-n, fermier, cultivateur
+oewn-game-n : gibier-n, jeu
+oewn-carcass-n : carcan-n, carcasse
+oewn-mount-n : montoir-n, monture, monte, mont
+oewn-soup-n : soupe-n, potage
+oewn-hairy-n : poilu-n, chevelu
+oewn-bottom-n : contrebas-n, fond
+oewn-sweat-n : suée-n, sueur
+oewn-worldly-n : mondain-n, mondaine
+oewn-draw-n : dégaine-n, tirage
+oewn-plebeian-n : plèbe-n, plébéien
+oewn-dislocate-v : disloquer-v, déboîter
+oewn-compromise-n : compromis-n, compromission
+oewn-puck-n : palet-n, rondelle
+oewn-embrace-v : embrasser-v, embraser, enlacer, étreindre
+oewn-prepare-v : préparer-v, apprêter
+oewn-memento-n : memento-n, mémento
+oewn-tiring-a : lassant-a, fatigant
+oewn-note-v : noter-v, constater
+oewn-screw up-v : bousiller-v, foirer
+oewn-dung-n : bouse-n, crottin
+oewn-incurable-a : inguérissable-a, incurable
+oewn-grow-a : grandir-a, grossir
+oewn-abundance-n : abondance-n, foison
+oewn-annoyance-n : agacerie-n, agacement, agace, contrariété
+oewn-place-n : lieu-n, place, endroit, placer
+oewn-ornament-n : parure-n, ornement
+oewn-staff-a : personnel-a, effectif
+oewn-bucket-n : godet-n, seau
+oewn-task-n : tâche-n, besogne
+oewn-exile-n : exil-n, exilé
+oewn-scratching-n : grattage-n, gratture, grattement
+oewn-ecstatic-a : extatique-a, extasié
+oewn-excavation-n : fouillage-n, excavation, fouaille
+oewn-snag-n : accroc-n, chicot
+oewn-rudeness-n : grossièreté-n, impolitesse
+oewn-scalpel-n : scalpel-n, bistouri
+oewn-index-n : index-n, indice
+oewn-sole-n : semelle-n, sole
+oewn-shrub-n : arbrisseau-n, arbuste
+oewn-bowl-n : bol-n, écuelle, jatte, cuvette
+oewn-grow-v : grandir-v, croître, grossir
+oewn-despair-n : désespérance-n, désespoir
+oewn-rot-a : moisir-a, pourrir
+oewn-slime-n : bavette-n, bave
+oewn-excess-n : excédent-n, excès
+oewn-miss-v : manquer-v, rater
+oewn-cowardly-a : lâche-a, pleutre
+oewn-stubborn-a : entêter-a, opiniâtre
+oewn-fur-n : fourrure-n, fur
+oewn-unpleasant-a : désagréable-a, déplaisant
+oewn-English-n : anglais-n, anglaise
+oewn-kiss-v : baiser-v, embouer
+oewn-funny-a : rigolo-a, drôle, drôlatique
+oewn-cross-n : cross-n, croisement, travers, croisé, croix
+oewn-wear-v : porter-v, user
+oewn-philosophical-a : philosophique-a, philosophal
+oewn-seed-n : graine-n, semence
+oewn-live-a : live-a, habitable, vivre
+oewn-kidney-n : rein-n, rognon, reinette
+oewn-bend-v : coudoyer-v, cintrer, courber, couder, ployer, fléchir
+oewn-use-v : user-v, utiliser, usiter, employer
+oewn-ruffian-n : ruffian-n, polissonnerie
+oewn-sectarian-n : sectateur-n, sectaire
+oewn-unclutter-v : désencombrer-v, dégarnir
+oewn-packaging-n : emballage-n, empaquetage, coquetage
+oewn-capricious-a : capricant-a, capricieux
+oewn-case-v : caserner-v, caser
+oewn-lament-v : déplorer-v, lamenter
+oewn-expensive-a : dispendieux-a, coûteux, onéreux
+oewn-glass-n : vitre-n, verre
+oewn-octopus-n : poulpe-n, poularde, pieuvre
+oewn-mail-n : courrier-n, mail
+oewn-survival-n : survivance-n, survie
+oewn-his-n : son-n, sien
+oewn-sorry-a : désoler-a, navrer
+oewn-flicker-v : vaciller-v, scintiller
+oewn-recollection-n : recollement-n, souvenance, recueillement, récollet
+oewn-wish-n : souhait-n, voeu
+oewn-diet-n : diète-n, régime
+oewn-approach-v : aborder-v, approcher
+oewn-entangle-v : enchevêtrer-v, empêtrer
+oewn-hiccup-n : hoqueton-n, hoquet
+oewn-fierce-a : féroce-a, farouche
+oewn-get-v : obtenir-v, procurer
+oewn-pie-n : tarte-n, tourte
+oewn-baptismal-a : baptismal-a, baptistaire
+oewn-questionable-a : contestable-a, discutable
+oewn-suspect-v : soupçonner-v, suspecter
+oewn-overlap-v : chevroter-v, chevaucher
+oewn-clerk-n : commis-n, clerc, greffier
+oewn-distraught-n : éperdument-n, affolé
+oewn-philistine-n : béotien-n, philistin, béotisme
+oewn-go-v : aller-v, vaquer
+oewn-parasol-n : parasol-n, ombrelle
+oewn-chase-v : chasser-v, pourchasser
+oewn-ban-n : interdiction-n, ban
+oewn-goat-n : bièvre-n, chèvre, bouc
+oewn-frightening-a : effrayant-a, effarant
+oewn-bloom-v : fleurer-v, fleurir, refleurir
+oewn-crunch-v : croquer-v, crotter
+oewn-upgrade-v : moderniser-v, revaloir
+oewn-bamboo-n : bamboula-n, bambou, bamboche
+oewn-sleeping-n : coucherie-n, dormant
+oewn-aspire-v : ambitionner-v, aspirer
+oewn-scrap metal-n : ferraille-n, mitraille
+oewn-furrier-n : fourreur-n, fourrier
+oewn-friction-n : frottement-n, friction
+oewn-dry-n : sèche-n, sec
+oewn-purple-a : violet-a, pourpre, pourpré
+oewn-demonstrator-n : démonstrateur-n, manifestant
+oewn-outfit-n : accoutrement-n, tenue
+oewn-insert-n : entrefilet-n, insertion
+oewn-preliminary-a : préliminaire-a, préalable
+oewn-alley-n : ruelle-n, allée
+oewn-highness-n : altesse-n, hautesse
+oewn-pavement-n : chaussée-n, pavé, pavée
+oewn-affix-v : affubler-v, apposer
+oewn-tickle-n : chatouillement-n, chatouille
+oewn-resounding-a : résonnant-a, retentissant
+oewn-sir-n : messire-n, sir
+oewn-librarian-n : libraire-n, bibliothécaire
+oewn-perish-v : pérorer-v, périr, péricliter
+oewn-disaster-n : catastrophe-n, désastre
+oewn-buoy-n : bouée-n, buée
+oewn-skating-n : skating-n, patinage
+oewn-fry-n : friture-n, fretin
+oewn-stop-v : enrayer-v, stopper, arrêter
+oewn-shrinkage-n : rapetissement-n, rétraction, rétrécissement
+oewn-path-n : chemin-n, sentier
+oewn-surveyor-n : géomètre-n, arpenteur
+oewn-hang up-n : raccroc-n, raccrochage, raccrocheur
+oewn-switch-n : interrupteur-n, commutation
+oewn-compel-v : obliger-v, contraindre, astreindre
+oewn-closed-n : clos-n, renfermé
+oewn-perch-n : perche-n, perchoir
+oewn-garden-n : potager-n, jardin, jardinet
+oewn-darken-v : foncer-v, assombrir
+oewn-remove-v : retirer-v, destituer, déparer, supprimer, ôter, éloigner, enlever
+oewn-audience-n : audience-n, auditoire
+oewn-shrink-v : rapetisser-v, rétrécir, amenuiser
+oewn-scoundrel-n : fripouille-n, canaille, vaurien, canaillerie, crapule
+oewn-tinker-v : fignoler-v, bricoler
+oewn-review-v : reviser-v, examiner, revoir
+oewn-uncouple-v : désaccoupler-v, dételer
+oewn-denunciation-n : dénonciation-n, délation
+oewn-irritate-a : énerver-a, irriter
+oewn-save-a : sauver-a, économiser
+oewn-infatuate-v : enticher-v, infatuer
+oewn-people-n : gens-n, people, peuple, peuplade
+oewn-repeat-n : redoublement-n, redite
+oewn-enclose-a : enclore-a, enfermer
+oewn-irreconcilable-a : inconciliable-a, irréconciliable
+oewn-toy-n : jouet-n, joujou
+oewn-sour-a : aigrelet-a, aigre
+oewn-second-a : deuxième-a, seconder, second
+oewn-say-n : dit-n, dire
+oewn-lacquer-n : laque-n, laqueur
+oewn-collapse-v : écrouler-v, ébouler, affaisser, effondrer, crouler
+oewn-change-n : changement-n, change
+oewn-charcoal-a : charbonneux-a, charbonner
+oewn-butcher-v : bouchonner-v, charcuter, boucher, dépecer, aboucher
+oewn-insurgent-n : insurgent-n, insurgé
+oewn-channel-n : chenal-n, canal
+oewn-undermine-v : amoindrir-v, saper, ébranler, miner
+oewn-clear-a : clair-a, limpide, clairet
+oewn-hearing-n : ouïe-n, audition
+oewn-olive-a : olivâtre-a, olive
+oewn-radiate-v : rayonner-v, radier
+oewn-pickaxe-n : pioche-n, piochage
+oewn-limit-v : borner-v, limiter
+oewn-ramble-v : divaguer-v, radoter
+oewn-glue-v : coller-v, recoller, colleter, engluer
+oewn-walk-n : walk-n, promenade
+oewn-buggy-n : boguet-n, goguette
+oewn-debouchment-n : déboulement-n, débouquement
+oewn-quotient-n : quotient-n, quotité
+oewn-rebuild-v : reconstruire-v, rebâtir
+oewn-comical-a : comique-a, cocasse
+oewn-dismiss-v : destituer-v, congédier, démettre, écarter, éconduire
+oewn-arrange-v : arranger-v, agencer, disposer
+oewn-school-n : scolie-n, école
+oewn-roll up-v : retrousser-v, enrouler
+oewn-greed-n : gourmandise-n, cupidité, avidité
+oewn-action-n : agissement-n, action
+oewn-pawing-v : tripoter-v, peloter
+oewn-scold-v : gronder-v, houspiller
+oewn-shouting-n : engueulade-n, engueulement
+oewn-sometimes-r : quelquefois-r, tantôt, parfois
+oewn-light-a : allumer-a, léger
+oewn-book-n : livre-n, bouquin
+oewn-leafy-n : feuillé-n, feuillée
+oewn-island-n : île-n, îlot
+oewn-relentless-n : acharné-n, acharnement
+oewn-spread-v : propager-v, étaler, répandre, épandre, écarter
+oewn-fool-a : sot-a, niais, arsouille
+oewn-swim-v : surnager-v, nager
+oewn-assign-v : affecter-v, assigner, attribuer
+oewn-delivery-n : livraison-n, délivrance, accouchement
+oewn-appear-v : paraître-v, apparaître, comparaître
+oewn-twisting-v : tortiller-v, vriller, entortiller
+oewn-jet-n : jet-n, jais
+oewn-agonize-v : agonir-v, agoniser
+oewn-spell-v : épeler-v, orthographier
+oewn-answer-n : répons-n, réponse
+oewn-report-v : rapporter-v, signaler
+oewn-chew-v : mâcher-v, mâchonner, chiquer, mastiquer
+oewn-compensate-v : dédommager-v, compenser, indemniser
+oewn-mislead-v : égarer-v, détromper, fourvoyer
+oewn-go to-v : passer-v, daller, acagnarder
+oewn-old-n : vieille-n, vieux, ancien, vielle
+oewn-praise-v : encenser-v, louanger
+oewn-defer-v : surseoir-v, déférer, différer
+oewn-ticket-n : billet-n, contravention, ticket
+oewn-tank-n : char-n, cuve, réservoir, cuveau
+oewn-gentleman-n : gentilhomme-n, gentleman
+oewn-pack-v : tasser-v, emballer, valiser
+oewn-surprise-v : surprendre-v, étonner
+oewn-dent-v : bosseler-v, cabosser, bossuer
+oewn-wake-n : sillage-n, veillée
+oewn-need-v : falloir-v, nécessiter
+oewn-tassel-n : glandée-n, pompon
+oewn-stick-v : bâter-v, bâtonner, coller
+oewn-life-n : vie-n, viager
+oewn-estimate-v : estimer-v, intimer
+oewn-foliage-n : feuillage-n, frondaison
+oewn-wave-n : vague-n, onde
+oewn-bribe-v : corrompre-v, soudoyer
+oewn-bird-n : oiseau-n, oisillon
+oewn-pamper-v : mignoter-v, choyer, dorloter
+oewn-paperwork-n : paperasserie-n, paperassier, paperasse
+oewn-patent-n : brevet-n, patenté, patente
+oewn-prominence-n : proéminence-n, prééminence
+oewn-submit-v : soumettre-v, remettre
+oewn-bark-n : aboi-n, écorce
+oewn-dress-v : habiller-v, panser, vêtir, rhabiller
+oewn-character-n : personnage-n, caractère
+oewn-donation-n : donation-n, don
+oewn-serve-v : servir-v, desservir
+oewn-unconstitutional-a : anticonstitutionnel-a, inconstitutionnel
+oewn-contain-v : contenir-v, endiguer
+oewn-front-n : devanture-n, front
+oewn-fancy-n : fantaisiste-n, fantaisie
+oewn-fussy-a : sourcilleux-a, tatillon
+oewn-dust-n : poussier-n, poussière
+oewn-hang-v : accrocher-v, pendiller, pendre
+oewn-outrage-v : outrager-v, outrer
+oewn-twisting-n : entortillage-n, vrillement, tortillage
+oewn-student-n : élève-n, étudiant
+oewn-pick up-v : ramasser-v, décrocher
+oewn-pig-n : cochon-n, porc
+oewn-reversal-n : interversion-n, revirement, retournement
+oewn-emigrant-n : émigrant-n, émigré
+oewn-reform-v : reformer-v, réformer
+oewn-transfer-n : cession-n, transfèrement, mutation, transfert, virement
+oewn-imitation-n : imitation-n, simili
+oewn-softness-n : douceur-n, mollesse
+oewn-sausage-n : saucisse-n, saucisson
+oewn-folding-n : rabattement-n, plieur, plissure, repliement, plissement, pliant, rabattage
+oewn-questioning-n : interrogation-n, interrogateur
+oewn-algerian-n : algérienne-n, algérien
+oewn-take-v : pourprer-v, prélever, prendre, emmener
+oewn-at-r : lors-r, auprès
+oewn-catarrhal-a : catarrheux-a, catarrhal
+oewn-hateful-a : haïssable-a, haineux
+oewn-pay-n : paie-n, paye
+oewn-yawn-n : bâillement-n, baille, bâilla
+oewn-smear-v : badigeonner-v, parsemer
+oewn-disgusting-a : répugnant-a, écoeurant, dégoûtant
+oewn-feed-v : nourrir-v, alimenter, repaître
+oewn-thousand-n : millier-n, mille
+oewn-underbelly-n : sous-ventrière-n, bas-ventre
+oewn-entrench-v : retrancher-v, enténébrer
+oewn-hover-v : haler-v, planer
+oewn-languish-v : croupir-v, languir
+oewn-languid-a : alangui-a, langoureux, languide
+oewn-clutter-n : encombrement-n, fouillis, encombre
+oewn-blur-v : brouiller-v, estomper, flouer
+oewn-ability-n : habileté-n, aptitude
+oewn-claim-v : clamer-v, revendiquer, réclamer
+oewn-vintage-n : cuvée-n, millésime
+oewn-naughty-n : pimbêche-n, coquinerie, vilain, coquin
+oewn-inclined-a : enclin-a, inclément
+oewn-brick-n : brique-n, brick
+oewn-consternation-n : consternation-n, consternement
+oewn-tan-v : hâler-v, bronzer
+oewn-flick-n : chiquenaude-n, pichenette
+oewn-blemish-n : souille-n, tare
+oewn-unravelling-n : dénoûment-n, débrouillage
+oewn-agree-v : agréer-v, convenir, concorder
+oewn-stench-n : relent-n, puanteur
+oewn-support-n : soutènement-n, support, appui, soutien, appuiement
+oewn-walk-v : marcher-v, promener
+oewn-stuffing-a : farce-a, bourrer, bourrant
+oewn-donor-n : donneur-n, donateur
+oewn-decamp-v : décamper-v, découcher
+oewn-trinket maker-n : bibeloteur-n, bibelotier
+oewn-disavow-v : désavouer-v, renier
+oewn-stubborn-n : têtu-n, entêtement, entêté, teigneux
+oewn-flickering-n : papillotage-n, papillonnage
+oewn-crime-n : crime-n, délit, criminalité
+oewn-shoe-n : chausse-n, chaussure, soulier, chaussé
+oewn-disbelief-n : incroyance-n, incrédulité
+oewn-municipality-n : municipalité-n, municipe
+oewn-preparation-n : préparation-n, préparatif
+oewn-master-n : mestre-n, master, maître
+oewn-organization-n : organisation-n, organisme
+oewn-waterproof-n : imperméable-n, waterproof
+oewn-fence-n : palissade-n, grillage, clôture
+oewn-roasted-n : rôti-n, rôtie
+oewn-grass-n : herbage-n, herbe
+oewn-boarding-n : embarquement-n, abordage
+oewn-go out-n : sors-n, sortir
+oewn-caustic-n : causeur-n, caustique
+oewn-pledge-n : gage-n, nantissement
+oewn-matchmaker-n : entremetteur-n, marieur
+oewn-payment-n : paiement-n, payement, versement
+oewn-scraper-n : grattoir-n, racleur, décrotteur
+oewn-stony-a : pierreux-a, caillouteux
+oewn-belt-n : ceinturon-n, courroie, ceinture
+oewn-curvature-n : courbure-n, courbature
+oewn-ease-n : aise-n, aisance
+oewn-place-v : replacer-v, placer
+oewn-erect-v : ériger-v, dresser
+oewn-calm-a : calmer-a, calme
+oewn-wicker-n : bobèche-n, osier
+oewn-Benedictine-n : bénédictin-n, bénédictine
+oewn-request-n : demande-n, mandement, requête
+oewn-secret-n : secret-n, secrète
+oewn-distress-n : navrement-n, détresse
+oewn-joy-n : allégresse-n, joie
+oewn-bell-n : cloche-n, clochette, grelot, sonnette
+oewn-night-n : nuit-n, nuitée
+oewn-reform-n : réforme-n, reforme
+oewn-slipper-n : pantoufle-n, chausson
+oewn-friend-n : copain-n, amie, ami
+oewn-contradiction-n : contradiction-n, contradicteur
+oewn-dinner-n : dîner-n, souper
+oewn-digital-a : digital-a, numérique
+oewn-conclave-n : conclaviste-n, conclave
+oewn-twin-n : jumeau-n, jumelle
+oewn-poor-n : pauvret-n, pauvre, pauvresse
+oewn-thing-n : chose-n, machin, truc
+oewn-time-n : temps-n, époque, heure
+oewn-five_thousand-n : cinq_milles-n, cinq_mille
+oewn-chisel-n : ciselure-n, burin
+oewn-bickering-n : chamaillerie-n, chicanier, chamaillade, chamailleur
+oewn-mirror-n : miroir-n, miroton
+oewn-scope-n : envergure-n, ampleur, portée
+oewn-read-n : lut-n, lire
+oewn-engrave-v : graver-v, engraver, grever
+oewn-lick-n : lèchement-n, lèche
+oewn-receiver-n : receveur-n, receleur
+oewn-agent-n : agent-n, mandataire
+oewn-encumber-a : grever-a, encombrer
+oewn-slash-v : pourfendre-v, écheniller, balafrer, taillader, entailler, sabrer
+oewn-stay-v : séjourner-v, rester, demeurer
+oewn-impoverishment-n : appauvrissement-n, empuantissement
+oewn-date-n : datte-n, date
+oewn-kettle-n : bouilloire-n, cagnard, marmite
+oewn-poison-n : empois-n, poison
+oewn-train-v : entraîner-v, dresser
+oewn-lamp post-n : lampadaire-n, réverbère
+oewn-cane-n : canne-n, canche, cane
+oewn-darkness-n : pénombre-n, obscurité, ténèbre, noirceur
+oewn-enchantment-n : féerie-n, enchantement, enchifrènement
+oewn-blower-n : souffleuse-n, souffleur
+oewn-misunderstanding-n : méprise-n, méconnaissance, incompréhension, malentendu
+oewn-mumbling-n : bredouillement-n, marmottage
+oewn-judge-n : jugeur-n, juge
+oewn-gully-n : ravin-n, rigole
+oewn-consume-v : consommer-v, consumer
+oewn-keep-v : conserver-v, garder
+oewn-appointment-n : nomination-n, rendez-vous
+oewn-notice-n : notice-n, avis
+oewn-ivory-n : ivoire-n, ivoirier
+oewn-falsify-v : falsifier-v, fausser
+oewn-shudder-n : frissonnement-n, frisson
+oewn-scare-a : effaroucher-a, effarer, effrayer, épeurer
+oewn-work-n : travail-n, ouvrage, oeuvre
+oewn-repatriation-n : rapatriement-n, rapatriage
+oewn-awakening-n : éveil-n, réveil
+oewn-enrolment-n : émargement-n, enrôlement
+oewn-shooter-n : tireur-n, tireuse, fusilleur
+oewn-fishmonger-n : poissonnerie-n, poissonnière, poissonnier, mareyeur
+oewn-embarrassment-n : gêne-n, embarras
+oewn-shutter-n : persienne-n, volet
+oewn-draft-n : ébauche-n, brouillon
+oewn-quibble-v : ergoter-v, chicaner
+oewn-lower-v : baisser-v, abaisser, rabaisser
+oewn-peeling-v : écorner-v, éplucher
+oewn-collection-n : collection-n, recouvrement, recueil, collecte, encaissement
+oewn-daisy-n : pâquerette-n, marguerite
+oewn-depict-v : dépeindre-v, dépeigner
+oewn-take away-v : emporter-v, emmener, emmancher
+oewn-hilarious-a : hilaire-a, désopilant, hilare
+oewn-ghost-a : fantôme-a, fantoche
+oewn-watering-n : arrosement-n, arrosage
+oewn-crumb-n : mie-n, mioche, miette
+oewn-re-edit-v : rééditer-v, réédifier
+oewn-refine-v : raffiner-v, affiner
+oewn-shed-n : remisier-n, cabanon
+oewn-treat-n : régale-n, régal, gâterie, friandise
+oewn-follow-v : suivre-v, ensuivre
+oewn-lintel-n : volige-n, linteau
+oewn-divert-v : dérouter-v, détourner
+oewn-fury-n : fureur-n, furie
+oewn-slander-v : médire-v, calomnier
+oewn-enclose-v : enserrer-v, enclore, renfermer, claquemurer, enclaver
+oewn-dye-a : teindre-a, colorant
+oewn-plate-n : assiette-n, assiettée, plaque, plate
+oewn-sanguine-n : sanguin-n, sanguine
+oewn-application-n : candidature-n, application
+oewn-hassle-n : embêtement-n, tracasserie, tracas
+oewn-stammering-a : bredouillant-a, bégayant, balbutiant, bégueule
+oewn-reel-n : dévidoir-n, moulinet, bobine, dévidage
+oewn-shovel-n : pelle-n, pelletée
+oewn-spouse-n : conjoint-n, époux
+oewn-crossroads-n : carrefour-n, croisée
+oewn-clear-v : déboiser-v, dégager, décrasser, innocenter, défricher, déblayer
+oewn-plow-a : labourer-a, labourable
+oewn-organ-n : orgue-n, organe
+oewn-touching-n : attouchement-n, effleurement
+oewn-velvet-n : velouté-n, velours
+oewn-development-n : élaboration-n, développement
+oewn-jump-n : saute-n, saut
+oewn-shoulder-n : épaulement-n, épaule
+oewn-chestnut-n : alezan-n, châtaigne, châtain, châtaignier
+oewn-animation-n : anime-n, animation
+oewn-slap-n : gifle-n, claque, bourrade
+oewn-operation-n : fonctionnement-n, opération, exploitation
+oewn-breaker-n : brise-tout-n, brise-fer, casseur
+oewn-strap-n : sangle-n, dragonne
+oewn-enchant-v : enchanter-v, enjouer
+oewn-braid-v : tresser-v, natter
+oewn-second-n : deuxième-n, seconde
+oewn-rake-v : ratisser-v, râteler
+oewn-tap-n : tape-n, robinet
+oewn-information-n : renseignement-n, information
+oewn-thirty-one-a : trente-et-une-a, trente-un, trente-et-un
+oewn-strangulation-n : étranglement-n, strangulation
+oewn-curling-n : retroussis-n, frisottement
+oewn-disdain-v : dédaigner-v, dédire
+oewn-prevail-v : prévaloir-v, prédominer
+oewn-canteen-n : gamelle-n, cantine
+oewn-notify-v : aviser-v, notifier
+oewn-square-n : carrée-n, équerre, square, carré
+oewn-lapse-n : laps-n, caducité
+oewn-valet-n : voiturier-n, voiturée, valet
+oewn-allocate-v : répartir-v, allouer
+oewn-roundel-n : rondeau-n, ronde-bosse, aronde
+oewn-dugout-n : pirogue-n, duègne
+oewn-prison-n : prison-n, bagne
+oewn-mound-n : tertre-n, butte, monticule
+oewn-protruding-n : saillant-n, saillie
+oewn-advocate-v : préconiser-v, prôner
+oewn-impregnate-v : empester-v, imprégner
+oewn-helpful-a : secourable-a, serviable
+oewn-inlay-n : marqueterie-n, incrustation
+oewn-lighting-n : allumement-n, éclairage, éclairement
+oewn-clay-n : glaise-n, argile
+oewn-screaming-n : criaillement-n, criaillerie
+oewn-prevent-v : prévenir-v, empêcher
+oewn-fighter-n : combattant-n, batailleur
+oewn-league-n : ligue-n, lieue
+oewn-bandage-v : panser-v, bander
+oewn-spoon-n : cuiller-n, cuillère
+oewn-succeed-v : aboutir-v, succéder, réussir
+oewn-director-n : directrice-n, metteur, directeur
+oewn-quote-n : citation-n, devis
+oewn-reckless-a : téméraire-a, imprudent
+oewn-bankruptcy-n : banqueroute-n, faillite
+oewn-clumsy-a : maladroit-a, balourd
+oewn-adjourn-v : ajourer-v, ajourner
+oewn-kindness-n : gentillesse-n, bonté
+oewn-design-n : conception-n, dessein
+oewn-understanding-n : compréhension-n, entendement
+oewn-bridle-n : bridon-n, bride
+oewn-order-n : ordre-n, ordonnance, commande
+oewn-low-n : bas-n, étiage, ras
+oewn-chest-n : poitrine-n, poitrail
+oewn-satchel-n : sacoche-n, gibecière
+oewn-fitting-n : appareillement-n, appareillage
+oewn-repression-n : refoulement-n, répression
+oewn-hashish-n : haschich-n, haschisch
+oewn-shameless-a : effronté-a, impudique, éhonté
+oewn-steal-v : dérober-v, voler
+oewn-cause-v : causer-v, provoquer, occasionner
+oewn-chubby-a : potelé-a, grassouillet, joufflue
+oewn-journey-n : voyage-n, périple, trajet
+oewn-reconcile-v : concilier-v, réconcilier
+oewn-inconvenient-a : incommode-a, inconvenant
+oewn-transmute-v : transmuer-v, transmuter
+oewn-work-v : oeuvrer-v, bosser, travailler, boulotter
+oewn-dip-n : trempe-n, trempette
+oewn-shout-v : écrier-v, crier, gueuler
+oewn-spy-v : épier-v, espionner
+oewn-plumber-n : plombière-n, plombier
+oewn-delay-n : retardement-n, délai, retard
+oewn-softening-n : ramollissement-n, amollissement, adoucissement
+oewn-daily-a : journalier-a, quotidien
+oewn-shaping-n : façonnement-n, façonnage
+oewn-breath-n : souffle-n, haleine
+oewn-point-n : pointe-n, point
+oewn-founder-n : fondatrice-n, fondeur, fondateur
+oewn-nut-n : écrouelle-n, écrou
+oewn-whine-v : pleurnicher-v, geindre
+oewn-reverse-v : renverser-v, inverser, reverser
+oewn-speaker-n : orateur-n, speaker, conférencier, enceinte
+oewn-recite-v : récrier-v, réciter
+oewn-adhesion-n : adhérence-n, adhésion
+oewn-straighten-v : redresser-v, défriser
+oewn-member-n : adhérent-n, membre, député
+oewn-free-a : libre-a, gratuit
+oewn-bend over-v : coudoyer-v, cambrer
+oewn-peep-n : piaillement-n, voyoute
+oewn-plot-n : intrigue-n, parcelle, placette, complot, tracé
+oewn-candlestick-n : chandelier-n, bougeoir
+oewn-felt-n : feutre-n, senti, ressenti
+oewn-ground-n : terre-plein-n, sol
+oewn-grasp-v : empoisser-v, empoigner
+oewn-fad-n : lubie-n, toquade
+oewn-taste-n : goût-n, goûter
+oewn-eat-v : bouffer-v, manger
+oewn-bearded-n : barbue-n, barbu
+oewn-wash-n : lavure-n, lavage
+oewn-crumple-v : chiffonner-v, friper, froisser
+oewn-dismay-v : consterner-v, atterrer
+oewn-carpenter-n : charpentier-n, menuisier
+oewn-rubble-n : décombres-n, gravat, moellon
+oewn-bounce-v : rebondir-v, bonder
+oewn-newsletter-n : newsletter-n, bulletin, nouvelliste
+oewn-crumpling-n : chiffonnage-n, froissement
+oewn-arrival-n : arrivée-n, arrivage
+oewn-dinner-v : dîner-v, souper
+oewn-flee-v : déguerpir-v, fuir, enfuir
+oewn-decoration-n : décor-n, décoration
+oewn-fuss-v : folichonner-v, tatillonner
+oewn-embellishment-n : fioriture-n, enjolivement, embellissement, embellie
+oewn-hole-n : trou-n, trouée
+oewn-confine-v : cantonner-v, confiner
+oewn-rewrite-v : rembrunir-v, récrire
+oewn-lower-a : inférieur-a, surbaisser
+oewn-restraint-n : retenue-n, contention
+oewn-ineptitude-n : inaptitude-n, ineptie
+oewn-country-n : contrée-n, pays
+oewn-clever-a : habile-a, futé
+oewn-piping-n : passepoil-n, tuyautage
+oewn-alleviate-v : allécher-v, alléger
+oewn-kite-n : milan-n, cerf-volant
+oewn-utility-n : utilité-n, utilitaire
+oewn-brave-n : brave-n, courageux
+oewn-fat-n : fat-n, gras
+oewn-curly-n : frisée-n, frisé
+oewn-horn-n : cor-n, corne, cornet
+oewn-threading-v : enfieller-v, enfiler
+oewn-entertaining-a : divertissant-a, distrayant
+oewn-chapel-n : chapelle-n, chapellenie
+oewn-prowl-v : rôdailler-v, rôder
+oewn-reach-v : parvenir-v, atteindre
+oewn-unhealthy-a : malsain-a, insalubre
+oewn-pointing-v : braquer-v, guigner
+oewn-sympathize-v : sympathiser-v, compatir
+oewn-interview-n : entrevue-n, interviewer, interview
+oewn-hook-n : hameçon-n, crochet, croche
+oewn-file-v : limer-v, classer, ficher
+oewn-sealing-n : cachetage-n, scellement
+oewn-imperial-n : impériale-n, impériaux
+oewn-palace-n : palace-n, palais
+oewn-inhale-v : inhaler-v, inspirer
+oewn-question-v : questionner-v, interroger
+oewn-scar-n : cicatrice-n, cicéro
+oewn-stunner-n : assommoir-n, assommeur
+oewn-obituary-n : obituaire-n, nécrologue, nécrologie
+oewn-jacket-n : veston-n, jaquette, vareuse, veste
+oewn-bruise-n : ecchymose-n, meurtrissure
+oewn-kick-v : botter-v, ruer
+oewn-decay-v : décrépir-v, délabrer, décrépiter
+oewn-heir-n : héritier-n, hoirie, hièble
+oewn-unintelligence-n : inintelligence-n, mésintelligence
+oewn-pretend-v : prétendre-v, prétexter, feindre
+oewn-kid-a : gosse-a, gamin
+oewn-bellow-v : beugler-v, brailler
+oewn-provost-n : prévôt-n, prévôté
+oewn-flay-v : efflanquer-v, éreinter
+oewn-over-r : par-dessus-r, sus
+oewn-fail-v : défaillir-v, échoir, échouer, faillir
+oewn-thyme-n : serpolet-n, thym
+oewn-feverish-a : fiévreux-a, fébrile
+oewn-tub-n : tub-n, baquet
+oewn-popularize-v : vulgariser-v, populariser
+oewn-japanese-n : japonisant-n, japonaiserie, japonisme
+oewn-old-a : vieux-a, ancien
+oewn-rattle-n : hochet-n, hochequeue, crécelle
+oewn-table-n : table-n, tablée
+oewn-waffle-n : gaufre-n, gaufrure
+oewn-height-n : hauteur-n, toise
+oewn-scroll-v : scander-v, défiler
+oewn-investigation-n : enquête-n, investigation
+oewn-forgetfulness-n : oubli-n, oubliette
+oewn-throw-v : jeter-v, élancer, lancer
+oewn-fly-n : vole-n, mouche
+oewn-sign-n : enseigne-n, panonceau, pancarte, écriteau, signe
+oewn-procession-n : cortège-n, processionnement, procession
+oewn-gut-n : boyau-n, boyaudier
+oewn-attendant-n : accompagnateur-n, préposé
+oewn-demolition-n : démolition-n, démolissage
+oewn-butchery-n : fâcherie-n, boucherie
+oewn-spinner-n : filandière-n, filateur, fileur
+oewn-pay-v : payer-v, acquitter, rétribuer
+oewn-area-n : aire-n, superficie
+oewn-exhibition-n : exhibition-n, exposition
+oewn-cart-n : carriole-n, chariot, cart, charrette
+oewn-refine-a : raffiner-a, affiner
+oewn-ripple-n : ondoiement-n, ondulation
+oewn-brown-n : brune-n, marron, brun
+oewn-challenge-n : contestation-n, défi
+oewn-sigh-v : soupeser-v, soupirer
+oewn-muse-n : muse-n, égérie
+oewn-fool-v : duper-v, niaiser, berner
+oewn-feeder-n : nourrisseur-n, mangeoire
+oewn-grant-v : accorder-v, octroyer
+oewn-cut-v : couper-v, découper
+oewn-pilgrim-n : pèlerin-n, pèlerine
+oewn-top-n : sommité-n, dessus, cime
+oewn-disapproval-n : désapprobation-n, réprobation
+oewn-scarf-n : foulard-n, écharpe
+oewn-trifle-n : broutille-n, vétille
+oewn-gallows-n : gibet-n, potence
+oewn-orderly-n : ordonnée-n, ordonnateur
+oewn-hut-n : hutte-n, cahute, baraquement, cabane, baraque, bahut
+oewn-idle-n : oisif-n, désoeuvré
+oewn-cancel-v : annuler-v, décommander
+oewn-linger-v : linger-v, attarder
+oewn-raise-n : lève-n, lever, rehausse, relèvement
+oewn-radiation-n : rayonnement-n, radiation
+oewn-leaf-n : vantail-n, feuille
+oewn-sparing-n : ménagement-n, épargnant
+oewn-recreate-v : recréer-v, récréer, recrépir
+oewn-bunker-n : caboulot-n, soute
+oewn-writer-n : écrivain-n, écrivailleur, écrivassier
+oewn-banker-n : banqueroutier-n, banquier
+oewn-renunciation-n : renonciation-n, renoncement
+oewn-pester-v : importuner-v, pester
+oewn-purify-v : épurer-v, purifier
+oewn-gardener-n : jardinier-n, jardinière
+oewn-bachelor-n : bachelier-n, célibataire, baccalauréat
+oewn-chat-v : bavarder-v, papoter
+oewn-spray-v : pulvériser-v, vaporiser
+oewn-dishevelling-n : échevellement-n, déculottage
+oewn-criminal-a : criminel-a, pénal
+oewn-enumeration-n : énumération-n, dénombrement
+oewn-infatuation-n : engouement-n, infatuation
+oewn-upholsterer-n : tapissier-n, tapissière
+oewn-affinity-n : accointance-n, affinité
+oewn-cork-n : bouchon-n, liège
+oewn-govern-v : gouverner-v, régir
+oewn-frown-v : froncer-v, sourciller, renfrogner
+oewn-coat-n : pelisse-n, pelage, manteau
+oewn-look-v : regarder-v, paraître
+oewn-assembly-n : assemblage-n, assemblée
+oewn-enamel-n : émail-n, émaillure
+oewn-control-v : contrôler-v, maîtriser
+oewn-dull-v : affadir-v, émoustiller
+oewn-undulating-a : onduleux-a, ondulant, ondoyant
+oewn-cellar-n : cellier-n, cave
+oewn-pointed-n : pointé-n, pointu
+oewn-roughness-n : rudesse-n, rugosité
+oewn-mastery-n : maîtrise-n, maestria
+oewn-frown-n : renfrognement-n, froncement
+oewn-share-n : quote-part-n, partage
+oewn-ravish-v : ravir-v, ravigoter
+oewn-know-a : connaître-a, saur
+oewn-resemble-v : ressemer-v, ressembler, ressemeler
+oewn-comfort-n : confort-n, réconfort
+oewn-modest-a : modique-a, pudique, modeste
+oewn-emboss-v : écussonner-v, embosser, gaufrer
+oewn-shit-n : merde-n, chiade
+oewn-real-a : réel-a, vrai, véritable
+oewn-lace-n : lacet-n, dentelle, lacis
+oewn-shimmer-v : chatoyer-v, miroiter
+oewn-unhook-v : dégrafer-v, décocher, décroiser, décrocher
+oewn-common-n : commune-n, commun
+oewn-supporter-n : partisan-n, supporter
+oewn-rough-a : rude-a, rêche, rugueux, raboteux
+oewn-purchase-n : emplette-n, achat
+oewn-melody-n : mélopée-n, mélodie
+oewn-make-up-v : maquiller-v, maquignonner
+oewn-stay-n : séjour-n, reste
+oewn-herd-n : troupeau-n, harde
+oewn-wrap-v : enrubanner-v, emmitoufler, emballer, envelopper
+oewn-feint-n : feintise-n, feinte
+oewn-release-n : lâchage-n, relâche, dégagement, libération, lâcher
+oewn-unbearable-a : insoutenable-a, insupportable
+oewn-substitute-v : suppléer-v, substituer
+oewn-complimentary-a : complimenteur-a, élogieux
+oewn-laughing-n : rieuse-n, rieur
+oewn-lath-n : lattis-n, latte
+oewn-eminent-a : éminent-a, éminentissime
+oewn-reach-n : bief-n, atteinte
+oewn-instinct-n : instinct-n, instinctivité
+oewn-rosary-n : rosaire-n, chapelet
+oewn-shrew-n : mégère-n, musaraigne
+oewn-lunch-n : déjeuner-n, lunch
+oewn-accustom-v : habituer-v, accoutumer
+oewn-woody-a : ligneux-a, boiser
+oewn-sewer-n : égout-n, égoutier
+oewn-bargain-v : chiner-v, marchander
+oewn-bedridden-n : grabataire-n, alité
+oewn-roast-a : rôtir-a, griller
+oewn-exhilarating-a : grisant-a, exaltant
+oewn-chattering-n : rabâchage-n, babil, bavardage
+oewn-creeper-n : grimpereau-n, liane
+oewn-disgorge-v : dégrever-v, déganter, dégorger
+oewn-resignation-n : résignation-n, démission, démissionnaire
+oewn-stand out-v : ressortir-v, démarquer
+oewn-friendly-a : amiable-a, amical
+oewn-poet-n : poétereau-n, poète
+oewn-pitfall-n : chausse-trape-n, écueil, embûche
+oewn-consult-v : concerter-v, consulter
+oewn-tiara-n : diadème-n, tiare
+oewn-drown-v : nuer-v, noyer
+oewn-laurel-n : laure-n, laurier
+oewn-slump-n : éboulement-n, affaissement
+oewn-milestone-n : jalon-n, borne
+oewn-invert-v : invertir-v, radier
+oewn-sprain-n : foulure-n, entorse
+oewn-fencing-n : escrime-n, enclôture
+oewn-sow-v : semoncer-v, semer
+oewn-filthy-a : crasseux-a, immonde
+oewn-copy-v : copier-v, recopier, calquer
+oewn-funeral-n : obsèque-n, funéraille
+oewn-courtesy-n : gracieuseté-n, courtoisie
+oewn-ramp-n : rampe-n, bretelle
+oewn-mandarin-n : mandarin-n, mandarine
+oewn-canopy-n : dais-n, verrière, marquise, baldaquin, voilure
+oewn-fade-a : pâlir-a, déteindre
+oewn-mysticism-n : mysticité-n, mysticisme
+oewn-merchant-a : commerçant-a, marchand
+oewn-chubby-n : joufflu-n, rondouillard
+oewn-way-n : voie-n, façon
+oewn-flamingo-n : flamand-n, flamant, flamberge
+oewn-crown-v : couronner-v, sacrer
+oewn-hear-v : ouïr-v, entendre
+oewn-praise-n : éloge-n, louange
+oewn-auctioneer-n : commissaire-priseur-n, priseur
+oewn-strawberry-a : paillard-a, pailleter
+oewn-open-v : louver-v, entrouvrir, ouvrer, ouvrir
+oewn-skimming-v : écrémer-v, éculer, écumer, écrêter
+oewn-pool-n : bassin-n, billard
+oewn-protest-n : protestation-n, protêt
+oewn-enjoyment-n : jouisseur-n, jouissance
+oewn-contest-n : conteste-n, concours
+oewn-scramble-n : brouillement-n, brou, brouillerie
+oewn-shoot-v : fusiller-v, tirer
+oewn-bill-n : facture-n, bill
+oewn-round-n : ronde-n, rond
+oewn-club-n : massue-n, club
+oewn-tip-n : pourboire-n, astuce, bout
+oewn-quilt-n : courtepointe-n, édredon, couette
+oewn-proud-a : fier-a, orgueilleux
+oewn-recommend-v : recommander-v, préconiser
+oewn-sit-v : asseoir-v, siéger
+oewn-deliver-v : livrer-v, délivrer
+oewn-tilt-v : pencher-v, incliner, basculer
+oewn-fault-n : faille-n, faute
+oewn-glaze-a : vitrer-a, glacer
+oewn-coffin-n : coffin-n, cercueil
+oewn-rogue-n : dévoyé-n, rogue, voyou
+oewn-lather-v : mousser-v, dérouiller
+oewn-cabinet-n : cabinet-n, armoire
+oewn-daydreaming-n : songerie-n, rêvasserie
+oewn-appearance-n : apparat-n, comparution, apparition, apparence
+oewn-pallid-a : blême-a, blafard, pâlot
+oewn-renew-v : renouer-v, renouveler
+oewn-loyalty-n : loyauté-n, loyalisme, fidélité
+oewn-raid-v : rafler-v, dévaliser
+oewn-ennoble-v : ennoblir-v, anoblir
+oewn-agonizing-a : agonisant-a, angoissant
+oewn-blueberry-n : myrtille-n, bleuet
+oewn-mock-v : railler-v, moquer
+oewn-cottage-n : cottage-n, chalet
+oewn-rot-v : moisir-v, pourrir
+oewn-scatter-v : épandre-v, éparpiller
+oewn-slaughter-n : tuerie-n, abattage, hargnerie, égorgement, abat
+oewn-remove-a : éloigner-a, déchausser
+oewn-laugh-n : ris-n, rit
+oewn-cut-a : tailler-a, tronçonner, couper, découper
+oewn-enlarge-v : agrandir-v, élargir
+oewn-can-n : conserve-n, canette
+oewn-skinning-a : écorner-a, dépailler
+oewn-villain-n : scélérat-n, méchant
+oewn-panic-n : panique-n, affolement
+oewn-suggest-v : suggérer-v, proposer
+oewn-haunting-a : lancinant-a, obsédant
+oewn-change-v : modifier-v, changer
+oewn-offer-n : offertoire-n, offre
+oewn-debt-n : créance-n, dette
+oewn-collect-v : ramager-v, percevoir, recueillir, collectionner
+oewn-copy-n : exemplaire-n, copie, recopie
+oewn-improvement-n : amélioration-n, perfectionnement
+oewn-subscription-n : abonnement-n, souscription
+oewn-irrefutable-a : irréfutable-a, irréfragable
+oewn-furious-a : fourbu-a, furieux, furibond
+oewn-flourishing-a : florissant-a, fleurissant
+oewn-unravel-v : dégarnir-v, démêler, débrouiller, dénouer, découdre, démailler
+oewn-paragraph-n : paragraphe-n, alinéa
+oewn-reporter-n : rapporteur-n, reporter
+oewn-overturn-v : infirmer-v, renverser
+oewn-pigeon-n : palombe-n, pigeon
+oewn-post-v : poster-v, aposter
+oewn-worry-v : inquiéter-v, soucier
+oewn-around-n : entour-n, alentour, autour
+oewn-undress-a : dévêtir-a, déshabiller
+oewn-obscure-a : obscur-a, obscurcir
+oewn-strip-v : dénuder-v, dépouiller, démeubler
+oewn-fairy-n : féal-n, fée
+oewn-office-n : bureau-n, office
+oewn-cave-n : grotte-n, caverne
+oewn-acre-n : arpent-n, acre
+oewn-smokehouse-n : fumoir-n, fumerie
+oewn-membrane-n : membrane-n, membrure
+oewn-retreat-n : repli-n, reculade
+oewn-nail-n : ongle-n, onglée, clou
+oewn-goddess-n : déesse-n, godiche
+oewn-bear-n : ourse-n, ours
+oewn-bark-v : aboyer-v, japper
+oewn-pulley-n : poulaine-n, poulie
+oewn-disengage-v : décolérer-v, dégarnir, déganter
+oewn-stolen-n : volé-n, dérobée
+oewn-disintegrate-v : désagréger-v, déliter
+oewn-out-r : au-dehors-r, dehors, out
+oewn-severity-n : sévice-n, sévérité
+oewn-free-v : libérer-v, affranchir
+oewn-drive-v : conduire-v, reconduire
+oewn-split-n : scission-n, refend
+oewn-scraping-n : ferraillement-n, raclement
+oewn-knock down-v : terrasser-v, abattre
+oewn-furniture-n : mobilier-n, meuble
+oewn-hairy-a : chevelu-a, velu
+oewn-cameo-n : camée-n, camaïeu
+oewn-clarify-v : clarifier-v, éclaircir
+oewn-emancipate-v : affranchir-v, émanciper
+oewn-worrying-a : inquiétant-a, préoccupant
+oewn-firming up-n : affermissement-n, raffermissement
+oewn-boast-v : enorgueillir-v, vanter
+oewn-shouting-v : écrier-v, gueuler
+oewn-flexibility-n : souplesse-n, flexibilité
+oewn-mumble-v : marmonner-v, marmotter
+oewn-brain-n : cerveau-n, cervelle
+oewn-big-a : gros-a, grand
+oewn-resonance-n : résonance-n, résonnance
+oewn-drop-n : baisse-n, goutte
+oewn-patch up-v : rafistoler-v, recoller
+oewn-kid-n : gosse-n, gamin, môme, chevreau
+oewn-statement-n : énoncé-n, déclaration, relevé
+oewn-one-n : un-n, unième
+oewn-reaper-n : faucheux-n, moissonneur, faucheur
+oewn-union-n : union-n, syndicat
+oewn-compassion-n : compatissance-n, compassion
+oewn-accidental-a : accidenter-a, accidentel
+oewn-silt-n : bourbe-n, limon
+oewn-adorn-v : orner-v, parer, adonner
+oewn-cutter-n : coupeur-n, cutter
+oewn-lord-n : saigneur-n, lord, seigneur
+oewn-rebellion-n : rébellion-n, rebiffement, rébellionnement
+oewn-paddle-v : barboter-v, ramer
+oewn-wobble-n : vacillement-n, branle, branle-bas, branlement
+oewn-chuckle-v : ripailler-v, pouffer, glousser
+oewn-stable-n : écurie-n, étable
+oewn-sandstone-n : sablon-n, grès
+oewn-amaze-v : épater-v, ébahir
+oewn-annoying-a : énervant-a, embêtant, fâcheux, agaçant, contrariant, emmerdant
+oewn-muddle-n : embrouille-n, embrouillement
+oewn-marshal-n : maréchal-n, maréchale, maréchaussée
+oewn-dessert-n : entremets-n, dessert
+oewn-robin-n : robin-n, rouge-gorge
+oewn-plane-n : plane-n, avion
+oewn-leaning-v : pencher-v, adosser
+oewn-cat-n : matou-n, chat
+oewn-web-n : toile-n, web
+oewn-blink-v : cligner-v, clignoter
+oewn-lazy-a : fainéant-a, paresseux
+oewn-approve-v : approuver-v, agréer
+oewn-sleeper-n : dormeur-n, endormeur
+oewn-withdrawal-n : retrait-n, retiration
+oewn-try-v : tenter-v, éprendre, essayer
+oewn-raising-n : levant-n, levée
+oewn-collector-n : collecteur-n, percepteur, collectionneur
+oewn-bursting-a : crevant-a, éclatant
+oewn-stupefy-v : estomaquer-v, ébahir, stupéfier
+oewn-penny-n : penny-n, piécette, centime
+oewn-stilt-n : échalas-n, échasse
+oewn-renewal-n : renouveau-n, reconduite, renouvellement
+oewn-annoying-v : agacer-v, embêter
+oewn-improvisation-n : improbation-n, improvisation, imprévoyance
+oewn-accessory-n : accessit-n, accessoire
+oewn-again-r : derechef-r, encore
+oewn-touch-v : toucher-v, effleurer
+oewn-embedding-n : enchâssement-n, encastrement
+oewn-elevate-v : surélever-v, exhausser
+oewn-reformer-n : réformateur-n, réformiste
+oewn-leapfrog-n : sautereau-n, saute-ruisseau
+oewn-thawing-n : dégel-n, dégelée
+oewn-branch-n : rameau-n, branchette, sarment, branche, succursale
+oewn-knock-v : toquer-v, cogner, heurter
+oewn-glue-n : colle-n, glu
+oewn-decay-n : carie-n, délabrement, déliquescence, déchéance
+oewn-bun-n : brioche-n, chignon
+oewn-deer-n : cerf-n, chevreuil, daim, biche
+oewn-fabric-n : tissu-n, étoffe
+oewn-future-n : avenir-n, futur
+oewn-carve-v : tailler-v, sculpter
+oewn-cuckold-n : couillon-n, cocu
+oewn-chicken-n : poulet-n, poule
+oewn-mortify-v : mortifier-v, morigéner
+oewn-beg-v : supplier-v, mendier
+oewn-plea-n : plaidoyer-n, plaidoirie
+oewn-inconsistency-n : incohérence-n, inconsistance, inconstance, inconséquence
+oewn-inferiority-n : infériorité-n, inféodation
+oewn-curl up-v : pelotonner-v, recroqueviller
+oewn-engraving-n : gravure-n, gravoi
+oewn-store-v : emmagasiner-v, entreposer, remiser
+oewn-peel-v : éplucher-v, peler
+oewn-flaming-a : flamber-a, flambant
+oewn-Christianity-n : christianisme-n, chrétienté
+oewn-whistle-n : sifflement-n, sifflet
+oewn-plot-v : comploter-v, tramer
+oewn-hire-v : embaucher-v, engager
+oewn-use-n : emploi-n, usage
+oewn-barge-n : chaland-n, barge, péniche
+oewn-disturb-v : perturber-v, troubler, déranger
+oewn-pick-v : cueillir-v, piocher
+oewn-disassemble-v : démonter-v, désassembler
+oewn-touch-n : toucher-n, toucheur, touche
+oewn-mat-n : mat-n, natte
+oewn-count-v : dénombrer-v, compter
+oewn-fat-a : adipeux-a, fat, gras
+oewn-stir up-v : ameuter-v, attiser
+oewn-physiognomist-n : physionomiste-n, physiognomoniste
+oewn-trying-a : éprouvant-a, tentant
+oewn-hardware store-n : quincaillier-n, quincaillerie
+oewn-cab-n : taxi-n, cab
+oewn-three_thousand-n : trois_mille-n, trois_milles
+oewn-permanence-n : pérennité-n, permanence
+oewn-hurrah-n : hurrah-n, hourra, hourvari
+oewn-fertile-a : fertile-a, fécond
+oewn-dream-n : rêve-n, songe
+oewn-winner-a : gagneur-a, gagnant
+oewn-beam-n : faisceau-n, poutre, poutrelle
+oewn-sharpen-v : aiguiser-v, acérer, aguerrir, affiler
+oewn-announcement-n : annonce-n, faire-part
+oewn-shorten-v : raccourcir-v, abréger, écourter
+oewn-morality-n : morale-n, moralité
+oewn-ring-n : anneau-n, bague, sonnerie
+oewn-pointing-n : pointillement-n, empointure, pointage
+oewn-dozing-v : assoupir-v, somnoler
+oewn-pass-n : laissez-passer-n, passe
+oewn-note-n : notule-n, note, remarque
+oewn-scale-n : échelle-n, écaille, barème, balance
+oewn-day after tomorrow-n : surlendemain-n, après-demain
+oewn-obscure-v : obscurcir-v, obombrer
+oewn-hearsay-n : on-dit-n, ouï-dire
+oewn-similar-a : similaire-a, semblable
+oewn-fateful-a : funeste-a, fatidique
+oewn-internship-n : stage-n, internat
+oewn-dashing-a : pimpant-a, fringant
+oewn-weasel-n : fouine-n, belette
+oewn-moron-a : crétin-a, abruti, débile
+oewn-fade-v : pâlir-v, estomper, décolorer, évanouir, déteindre
+oewn-dagger-n : dague-n, poignard
+oewn-amazing-a : étonnant-a, stupéfiant, épatant
+oewn-darling-n : chéri-n, chouchou
+oewn-swing-n : balancelle-n, balançoire, balancement
+oewn-kind-n : sorte-n, gentil, genre
+oewn-corridor-n : corridor-n, couloir
+oewn-contest-v : disputer-v, contester
+oewn-screw-v : visser-v, revisser
+oewn-recipient-n : bénéficiaire-n, récipiendaire, destinataire
+oewn-jeweler-n : joaillier-n, bijoutier
+oewn-controversy-n : controverse-n, polémique
+oewn-marmoset-n : ouistiti-n, marmouset
+oewn-dizzying-a : étourdissant-a, vertigineux
+oewn-face-n : tronche-n, face, minois, visage
+oewn-official-n : fonctionnaire-n, official
+oewn-ridge-n : crête-n, faîte
+oewn-canon-n : chanoine-n, canon
+oewn-mouth-n : embouchure-n, gueule, bouche
+oewn-untie-v : dénouer-v, délier
+oewn-pepper-n : poivre-n, piment
+oewn-stutterer-n : bègue-n, bégueule
+oewn-splinter-v : échiner-v, écharper
+oewn-pump-n : escarpin-n, pompe
+oewn-inclination-n : penchant-n, inclination
+oewn-contractor-n : contractant-n, entrepreneur
+oewn-sentence-n : sentence-n, phraseur, peine
+oewn-exceed-a : excéder-a, dépasser
