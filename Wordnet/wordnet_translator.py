@@ -4,9 +4,11 @@ import deepl
 from tqdm import tqdm
 import copy
 
-auth_key = "b9b21679-6916-e9a7-e65f-8b1afa40a979"
+auth_key = ""
 translator = deepl.Translator(auth_key)
 
+#----------------- /!\ A modifier /!\ ------------------------
+#Adresse du répertoire de travail 
 os.chdir("/home/luc/Desktop/Completer")
 
 class Word:
@@ -20,6 +22,7 @@ class Word:
 	def id(self):
 		return "oewn-" + self.form + "-" + self.type
 
+#Fonction à appeler pour lancer la traduction du Wordnet
 def cutWordnet():
 	#Mots francais - traduction - type
 	sow_en = open("sow_en.txt")
