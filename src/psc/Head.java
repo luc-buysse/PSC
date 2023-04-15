@@ -98,33 +98,6 @@ public class Head {
 			}
 		}
 	}
-	
-	private static class SaxHandler extends DefaultHandler {
-		@Override
-		public void startElement(
-				String uri,
-				String localName,
-				String qName,
-				Attributes attributes) {
-			
-		}
-		
-		@Override
-		public void endElement(
-				String uri,
-				String localName,
-				String qName) {
-			
-		}
-		
-		@Override
-		public void characters(
-				char[] ch,
-				int start,
-				int length) {
-			
-		}
-	}
 		
 	public static void main(String[] __unused__) throws Throwable, IOException {
 		BufferedReader br = new BufferedReader(
