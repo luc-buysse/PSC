@@ -14,4 +14,4 @@ Organisation du dépot :
 Pour éxécuter le code sur votre propre machine :
 - le charger dans eclipse
 - modifier les chemins d'accès disponibles dans le fichier Settings.java
-- lancer le programmer et entrer "help" pour obtenir une liste des commandes disponibles
+- lancer le programme et éxécuter une des commandes décrite dans le fichier Head.java
