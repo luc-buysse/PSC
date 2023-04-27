@@ -4,11 +4,9 @@ import deepl
 from tqdm import tqdm
 import copy
 
-auth_key = ""
+auth_key = "b9b21679-6916-e9a7-e65f-8b1afa40a979"
 translator = deepl.Translator(auth_key)
 
-#----------------- /!\ A modifier /!\ ------------------------
-#Adresse du répertoire de travail 
 os.chdir("/home/luc/Desktop/Completer")
 
 class Word:
@@ -22,15 +20,11 @@ class Word:
 	def id(self):
 		return "oewn-" + self.form + "-" + self.type
 
-#Fonction à appeler pour lancer la traduction du Wordnet
 def cutWordnet():
 	#Mots francais - traduction - type
 	sow_en = open("sow_en.txt")
 	sow_fr = open("sow_fr.txt")
 	sow_types = open("sow_types.txt")
-
-	#Fichier de sortie
-	wn_cut = open("wn_cut.xml", 'wb')
 
 	#Fichier Wordnet
 	tree = ET.parse("wn.xml")
@@ -48,10 +42,11 @@ def cutWordnet():
 	word_relation_count_cut = {}
 	synset_relation_count = {}
 	synset_relation_count_cut = {}
+	synset_relation_count_inter = {}
 
 	print('Parsing du sow :')
 
-	#Ensemble des lignes des fichier pour resp. : anglais - français - type
+	#Ensemble des lignes des fichier pour respectivement : anglais - français - type
 	lines_en = sow_en.readlines()
 	lines_fr = sow_fr.readlines()
 	lines_types = sow_types.readlines()
@@ -78,27 +73,27 @@ def cutWordnet():
 		mot = Word(mot, type)
 
 		#Regroupe par word
-		if not word in existing_words.keys():
+		if not word in existing_words:
 			existing_words[word] = []
 		existing_words[word].append(mot)
 
 		#Stats
-		if word in merge_syns.keys():
+		if word in merge_syns:
 			merge_syns[word].append(mot)
 			merge_set.add(word)
 		else:
 			merge_syns[word] = [mot]
 
-	print("Nombre de mots parsés : " + str(len(existing_words.keys())) + "\nEtape 2")
+	print("Etape 2")
 
 	#On parcours l'ensemble des mots de wn en les traduisant
 	lexical_entry_list = root.findall("LexicalEntry")
 	for i in tqdm(range(len(lexical_entry_list))):
-		child = lexical_entry_list[i]
+		lexical_entry = lexical_entry_list[i]
 
-		old_id = child.get("id")
+		old_id = lexical_entry.get("id")
 
-		if old_id in existing_words.keys():
+		if old_id in existing_words:
 
 			liste  = existing_words[old_id]
 
@@ -106,7 +101,7 @@ def cutWordnet():
 
 			for mot in liste:
 				nid = mot.id()
-				cp = copy.deepcopy(child);
+				cp = copy.deepcopy(lexical_entry);
 
 				cp.set("id", nid)
 				lemma = cp.find("Lemma")
@@ -123,7 +118,7 @@ def cutWordnet():
 
 				root.append(cp)
 
-		root.remove(child)
+		root.remove(lexical_entry)
 
 	print("Etape 3")
 
@@ -140,7 +135,7 @@ def cutWordnet():
 				type = relation.get("relType")
 
 				#Stats
-				if not type in word_relation_count.keys():
+				if not type in word_relation_count:
 					word_relation_count[type] = 0
 					word_relation_count_cut[type] = 0
 				word_relation_count[type] += 1
@@ -148,7 +143,7 @@ def cutWordnet():
 				target_old_id = relation.get("target")
 
 				#Vérifie si le sens cible existe toujours supprime la relation si non
-				if not target_old_id in new_sense_id.keys():
+				if not target_old_id in new_sense_id:
 					sense.remove(relation)
 				else:
 					#Met à jour l'identifiant de la cible
@@ -160,7 +155,7 @@ def cutWordnet():
 
 	print("Etape 4")
 
-	#On fait le tri dans les synsets en supprimant ceux auquels aucun mot ne réfère
+	#On fait le tri dans les synsets en supprimant ceux auquels aucun mot ne se réfère
 	synset_list = root.findall("Synset")
 	for i in tqdm(range(len(synset_list))):
 		synset = synset_list[i]
@@ -170,9 +165,18 @@ def cutWordnet():
 		members = []
 
 		for name in member_names_initial:
-			if name in new_id.keys():
+			if name in new_id:
 				for mid in new_id[name]:
 					members.append(mid)
+
+		for relation in synset.findall("SynsetRelation"):
+			type = relation.get("relType")
+
+			if not type in synset_relation_count:
+				synset_relation_count[type] = 0
+				synset_relation_count_cut[type] = 0
+				synset_relation_count_inter[type] = 0
+			synset_relation_count[type] += 1
 
 		if len(members) == 0:
 			root.remove(synset)
@@ -196,10 +200,7 @@ def cutWordnet():
 			type = relation.get("relType")
 
 			#Stats
-			if not type in synset_relation_count.keys():
-				synset_relation_count[type] = 0
-				synset_relation_count_cut[type] = 0
-			synset_relation_count[type] += 1
+			synset_relation_count_inter[type] += 1
 
 			target_id = relation.get("target")
 
@@ -210,42 +211,41 @@ def cutWordnet():
 				#Stats
 				synset_relation_count_cut[type] += 1
 
+	sow_fr.close()
+	sow_en.close()
+
 	#On enregistre les modifications
-	wn_cut.write(ET.tostring(root))
-	wn_cut.close()
+	with open("wn_cut.xml", 'wb') as wn_cut:
+		wn_cut.write(ET.tostring(root))
 
 	#Enregistrement des statistiques
 	print("Enregistrement des statistiques")
 
-	stats = "Relations entre mots\t\tavant épuration\taprès épuration\n"
-	for t in word_relation_count.keys():
-		stats += t
-		stats += "\t\t\t\t" + str(word_relation_count[t]) + "\t\t" + str(word_relation_count_cut[t]) + "\n"
+	stats = []
+	stats.append("Relations entre mots\t&\tOriginal\t&\tTraduit \\\\ \n")
+	for t in word_relation_count:
+		stats.append(t)
+		stats.append(f"\t&\t{word_relation_count[t]}\t&\t{word_relation_count_cut[t]}\n")
 
-	stats += "\n\n"
+	stats.append("\n\n")
 
-	stats += "Relations entre synsets\t\tavant épuration\taprès épuration\n"
-	for t in synset_relation_count.keys():
-		stats += t
-		stats += "\t\t\t\t" + str(synset_relation_count[t]) + "\t\t" + str(synset_relation_count_cut[t]) + "\n"
-	stats += "Total de mots\t\t" + str(len(existing_words)) + "\n\n"
+	stats.append("Relations entre synsets\t&\tOriginal\t&\tIntermédiaire\t&\tTraduit \\\\ \n")
+	for t in synset_relation_count:
+		stats.append(t)
+		stats.append(f"\t&\t{synset_relation_count[t]}\t&\t{synset_relation_count_inter[t]}\t&\t{synset_relation_count_cut[t]}\\\\ \n")
 
-	stats += "Liste des mots fusionnés à la traduction : "
+	stats.append("\n\nListe des mots fusionnés à la traduction : \n")
 	for w in merge_set:
-		stats += w + " : " + merge_syns[w][0].form + "-" +  merge_syns[w][0].type
+		stats.append(w + " : " + merge_syns[w][0].form + "-" +  merge_syns[w][0].type)
 		for i in range(1, len(merge_syns[w])):
 			m = merge_syns[w][i].form
 			t = merge_syns[w][i].type
-			stats += ", " + m
-		stats += "\n"
+			stats.append(", " + m)
+		stats.append("\n")
 
 	#Fichier de sortie des statistiques
-	wn_stats = open("wn_stats.txt", "w")
-	wn_stats.write(stats)
-	wn_stats.close()
-
-	sow_fr.close()
-	sow_en.close()
+	with open("wn_stats.txt", "w") as wn_stats:
+		wn_stats.write("".join(stats))
 
 	print("Fin d'éxécution")
 
